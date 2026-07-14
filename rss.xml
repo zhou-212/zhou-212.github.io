@@ -186,7 +186,483 @@ A:&lt;strong&gt;不够&lt;/strong&gt;。CE-RED 是无线电设备指令,UN 38.3 
 &lt;li&gt;&lt;a href=&quot;/checklists/pre-listing-documents&quot;&gt;产品上架前资料检查清单&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;&lt;a href=&quot;/checklists/new-seller-basics&quot;&gt;新卖家开店基础资料检查清单&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;&lt;a href=&quot;/checklists/compliance-notice-48h&quot;&gt;收到平台合规通知后的 48 小时应对清单&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;</content:encoded><category>环保合规</category><category>产品安全</category><category>标签与说明书</category><category>平台合规</category></item><item><title>欧盟 PPWR 包装与包装废弃物法规 已发布:2026-08-12 全面适用,替代原 94/62/EC 指令</title><link>https://weiread.com/radar/eu-ppwr-2025-40/</link><guid isPermaLink="true">https://weiread.com/radar/eu-ppwr-2025-40/</guid><description>欧盟《包装与包装废弃物法规》(EU) 2025/40 已于 2025-02-11 生效,并将于 2026-08-12 起全面执行(除另有规定),取代原 94/62/EC 包装指令。新规对所有投放欧盟市场的包装施加物质限制、最小化、标签、可回收/再生原料等多维度要求,亚马逊、TEMU、速卖通等已陆续通知平台合规管控。</description><pubDate>Tue, 14 Jul 2026 00:00:00 GMT</pubDate><content:encoded>&lt;p&gt;&lt;em&gt;欧盟《包装与包装废弃物法规》(EU) 2025/40 已于 2025-02-11 生效,并将于 2026-08-12 起全面执行(除另有规定),取代原 94/62/EC 包装指令。新规对所有投放欧盟市场的包装施加物质限制、最小化、标签、可回收/再生原料等多维度要求,亚马逊、TEMU、速卖通等已陆续通知平台合规管控。&lt;/em&gt;&lt;/p&gt;
+&lt;/ul&gt;</content:encoded><category>环保合规</category><category>产品安全</category><category>标签与说明书</category><category>平台合规</category></item><item><title>欧盟 CRA 网络弹性法案 已生效:2027-12-11 全面适用,联网硬件 / 软件卖家必看</title><link>https://weiread.com/radar/eu-cra-2024-2847/</link><guid isPermaLink="true">https://weiread.com/radar/eu-cra-2024-2847/</guid><description>欧盟《网络弹性法案》(EU) 2024/2847 于 2024-12-10 生效,2027-12-11 起全面执行,首次把&apos;联网产品&apos;的默认安全、漏洞披露、5 年支持期、SBOM、CE 合格评定、ENISA 漏洞通报写进硬性义务。涵盖硬件 + 软件,处罚最高 1500 万欧元或全球营收 2.5%,亚马逊 2024 年起对联网产品已要求 DoC,CRA 让这变成强制。</description><pubDate>Tue, 14 Jul 2026 00:00:00 GMT</pubDate><content:encoded>&lt;p&gt;&lt;em&gt;欧盟《网络弹性法案》(EU) 2024/2847 于 2024-12-10 生效,2027-12-11 起全面执行,首次把&apos;联网产品&apos;的默认安全、漏洞披露、5 年支持期、SBOM、CE 合格评定、ENISA 漏洞通报写进硬性义务。涵盖硬件 + 软件,处罚最高 1500 万欧元或全球营收 2.5%,亚马逊 2024 年起对联网产品已要求 DoC,CRA 让这变成强制。&lt;/em&gt;&lt;/p&gt;
+&lt;h2&gt;一句话结论&lt;/h2&gt;
+&lt;p&gt;
+如果你在欧盟卖&lt;strong&gt;联网硬件 / 智能产品&lt;/strong&gt;(IoT、路由器、可穿戴、智能家电、智能玩具、工业传感器),2027-12-11 起 CRA (EU) 2024/2847 全面适用 —— 默认安全、5 年安全更新、SBOM、24 小时向 ENISA 通报漏洞、CE 合格评定全部强制。亚马逊 2024 年起已对联网产品要求 DoC,CRA 把它从平台要求升级为&lt;strong&gt;法规要求&lt;/strong&gt;,&lt;strong&gt;未合规会被下架 + 罚款&lt;/strong&gt;(最高 1500 万欧元或全球营收 2.5%)。
+&lt;/p&gt;
+&lt;h2&gt;适用范围&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;法规级别&lt;/strong&gt;:欧盟 &lt;strong&gt;Regulation&lt;/strong&gt;(直接适用全境)&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;覆盖范围&lt;/strong&gt;:&lt;strong&gt;带数字元素的产品&lt;/strong&gt;(products with digital elements) —— 联网硬件 + 远程数据处理解决方案(独立 SaaS 不在 CRA 主体范围,但与产品配套的 App / 云服务间接受约束)&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;典型适用&lt;/strong&gt;:消费类 IoT(智能音箱、扫地机器人、智能门锁)、网络设备(路由器、Mesh WiFi、防火墙、NAS)、可穿戴(智能手表、AR/VR 头显)、智能家电(联网冰箱 / 洗衣机 / 空调)、智能玩具 / 无人机、工业 IoT(智能传感器、PLC、SCADA)、配套固件 / App / 桌面客户端&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;不适用&lt;/strong&gt;(典型):专门为国家安全设计的军用、机密通信设备;MDR 项下的医疗设备(但内嵌非医疗软件部分仍受 CRA 约束)&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2&gt;关键时间线&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;2024-11-20&lt;/strong&gt;:&lt;strong&gt;Regulation (EU) 2024/2847&lt;/strong&gt; 在 Official Journal 发布&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;2024-12-10&lt;/strong&gt;:&lt;strong&gt;生效&lt;/strong&gt;(entry into force)&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;2026-09-11&lt;/strong&gt;:&lt;strong&gt;制造商漏洞披露义务开始&lt;/strong&gt; —— 24 小时内向 ENISA 通报已被积极利用的漏洞&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;2027-12-11&lt;/strong&gt;:&lt;strong&gt;全面适用&lt;/strong&gt;(36 个月过渡期结束,Annex I 全部要求 + Annex III I/II 类合格评定 + CE + DoC + 10 年技术文档)&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;2028-09-11&lt;/strong&gt;:微小企业合规义务开始(36 + 9 个月)&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2&gt;核心义务 —— Annex I 基本网络安全要求&lt;/h2&gt;
+&lt;p&gt;
+制造商必须在产品&lt;strong&gt;设计 + 开发 + 生产 + 投放市场&lt;/strong&gt;全周期满足:
+&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;默认安全&lt;/strong&gt;(secure by default):无密码默认 + 强身份认证 + 最小攻击面&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;漏洞识别与披露&lt;/strong&gt;:基于风险的漏洞识别 + 主动向 ENISA 通报已利用漏洞(24 小时内)&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;持续安全更新&lt;/strong&gt;:&lt;strong&gt;至少 5 年&lt;/strong&gt;支持期,期间免费发放安全补丁&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;完整性保护&lt;/strong&gt;:防止未授权访问、篡改、代码执行&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;数据最小化&lt;/strong&gt;:只处理产品功能所需的最少数据(与 GDPR 协同)&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;抗攻击韧性 + 攻击面记录 + 安全事件日志 + 用户数据安全擦除&lt;/strong&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2&gt;核心义务 —— Annex II 漏洞处理要求&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;建立&lt;strong&gt;漏洞披露策略&lt;/strong&gt;(Vulnerability Disclosure Policy),公开联系渠道&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;SBOM(软件物料清单)&lt;/strong&gt;:机器可读格式,识别产品中第三方组件&lt;/li&gt;
+&lt;li&gt;24 小时内向 &lt;strong&gt;ENISA&lt;/strong&gt; 通报&lt;strong&gt;已被积极利用&lt;/strong&gt;的严重漏洞&lt;/li&gt;
+&lt;li&gt;持续修复 + 免费安全更新 + 公开协调漏洞披露(CVD)政策&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2&gt;产品分级(影响合格评定程序)&lt;/h2&gt;
+&lt;p&gt;
+| 等级 | 合格评定方式 | 典型产品 |
+&lt;br&gt;
+|---|---|---|
+&lt;br&gt;
+| 普通产品 | 制造商自我声明(Module A) | 大多数 IoT、智能家电、消费类 |
+&lt;br&gt;
+| 重要产品 I 类(Annex III,Class I) | Module A 或 B + C | 密码管理器、身份管理系统、智能家居网关 |
+&lt;br&gt;
+| 重要产品 II 类(Annex III,Class II) | 强制第三方合格评定(notified body 介入,Module B + C) | 智能电表网关、机器人、PLC、SCADA、工业 IoT |
+&lt;br&gt;
+| 关键产品(Annex IV) | 最高级别合规 + 欧洲认证(Module H) | 暂时未列,留给二级立法 |
+&lt;/p&gt;
+&lt;p&gt;
+&amp;gt; 注:Annex III/IV 列表会通过二级立法&lt;strong&gt;持续扩展&lt;/strong&gt;,每年复核。
+&lt;/p&gt;
+&lt;h2&gt;合规清单(自检 6 项)&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;[ ] &lt;strong&gt;联网产品清单已盘点&lt;/strong&gt;:WiFi / 蓝牙 / 蜂窝 / Zigbee / Thread / 以太网接口的硬件 + 配套 App + 固件,逐 SKU 登记&lt;/li&gt;
+&lt;li&gt;[ ] &lt;strong&gt;Annex I 八项要求已逐项对照&lt;/strong&gt;:默认安全、5 年支持、SBOM、攻击面记录、数据最小化、DoS 韧性、事件日志、安全擦除&lt;/li&gt;
+&lt;li&gt;[ ] &lt;strong&gt;协调标准测试已做 / 已规划&lt;/strong&gt;:IEC 62443-4-2 / ETSI EN 303 645 任一&lt;/li&gt;
+&lt;li&gt;[ ] &lt;strong&gt;SBOM 已生成 / 已向供应商索取&lt;/strong&gt;:CycloneDX 或 SPDX 格式&lt;/li&gt;
+&lt;li&gt;[ ] &lt;strong&gt;DoC + CE 合格评定已完成&lt;/strong&gt;:重要产品 I/II 类有 notified body 证书&lt;/li&gt;
+&lt;li&gt;[ ] &lt;strong&gt;漏洞披露页已上线&lt;/strong&gt;:&lt;code&gt;/.well-known/security.txt&lt;/code&gt; + 公开 security@ 邮箱&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2&gt;你现在要做什么(按你的角色)&lt;/h2&gt;
+&lt;p&gt;
+&lt;strong&gt;品牌卖家 / OEM/ODM 卖家:&lt;/strong&gt;
+&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;&lt;strong&gt;盘点联网产品清单&lt;/strong&gt;(WiFi / 蓝牙 / 蜂窝 / Zigbee / Thread / 以太网接口的硬件 + 配套 App + 固件)&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;要求 OEM 补齐安全设计 + 评估报告&lt;/strong&gt;。Annex I 八项要求 + IEC 62443-4-2 / ETSI EN 303 645 评估报告&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;建立漏洞披露页&lt;/strong&gt; + 公开 security@ 邮箱 + SBOM(CycloneDX / SPDX 格式)+ DoC(EN ISO/IEC 17050 模板)&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;OEM 合同条款&lt;/strong&gt;:把&amp;quot;5 年安全更新承诺&amp;quot;写进采购合同,明确补丁分发责任、频率、终止条件;&lt;strong&gt;End-of-Life 政策&lt;/strong&gt;支持期结束前 6 个月通知用户&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;CE 合格评定 + 公告机构介入&lt;/strong&gt;(重要产品 I/II 类必须)+ 技术文档保存 10 年;强烈建议产品支持 OTA&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;
+&lt;strong&gt;纯软件 / App / 固件卖家:&lt;/strong&gt;
+&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;&lt;strong&gt;确认软件是否属&amp;quot;独立产品&amp;quot;&lt;/strong&gt;。随硬件捆绑销售 → 算 CRA 范围;独立 SaaS → 不在 CRA 但仍受 GDPR / NIS2 影响&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;建立 5 年安全更新承诺&lt;/strong&gt; + 漏洞披露政策 + SBOM(嵌入第三方 SDK 时尤其需要)&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;如果软件被列为&amp;quot;重要产品&amp;quot;&lt;/strong&gt;(密码管理器、VPN、操作系统)→ 第三方合格评定必须&lt;/li&gt;
+&lt;/ol&gt;
+&lt;h2&gt;亚马逊 DoC 上传要点&lt;/h2&gt;
+&lt;p&gt;
+亚马逊 2024 年起对联网产品已要求 DoC,Seller Central 合规门户上传时:
+&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;DoC 须英文 + 产品销售国语言(DE / FR / IT / ES 至少其一),须有&lt;strong&gt;签名人姓名 + 职位 + 签字日期&lt;/strong&gt;,PDF ≤ 25MB&lt;/li&gt;
+&lt;li&gt;同时上传:测试报告(IEC 62443-4-2 / ETSI EN 303 645 任一)&lt;/li&gt;
+&lt;li&gt;Listing 的 Product Description + 包装标签须&lt;strong&gt;与 DoC 一致&lt;/strong&gt;(型号、CE 标志、制造商信息)&lt;/li&gt;
+&lt;li&gt;批量合规团队&lt;strong&gt;抽查 ASIN&lt;/strong&gt;,首次未通过发警告邮件,二次未通过限流&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;SBOM 工具链&lt;/strong&gt;:&lt;code&gt;syft&lt;/code&gt; / &lt;code&gt;spdx-sbom-generator&lt;/code&gt; 生成;&lt;strong&gt;CycloneDX&lt;/strong&gt; / &lt;strong&gt;SPDX&lt;/strong&gt; 格式;漏洞库 &lt;strong&gt;NVD&lt;/strong&gt; / &lt;strong&gt;OSV&lt;/strong&gt; / &lt;strong&gt;GHSA&lt;/strong&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2&gt;不处理的潜在影响&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;高概率&lt;/strong&gt;:2027-12-11 后 Amazon EU / TEMU / 速卖通对未完成 CRA 合规的联网产品&lt;strong&gt;统一下架&lt;/strong&gt;(DoC 上传未通过的 ASIN 限流)&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;高概率&lt;/strong&gt;:海关扣留无 CE 标志的联网硬件&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;可能&lt;/strong&gt;:成员国市场监管机构现场检查 + 召回 + 罚款(15M EUR 或 2.5% 全球营收,以高者为准)&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;可能&lt;/strong&gt;:ENISA 漏洞通报未及时 → 处罚 + 信誉损失&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;常见误区&lt;/strong&gt;:很多卖家以为&amp;quot;等 2027 再合规就行&amp;quot;——ENISA 漏洞通报 2026-09-11 就开始;5 年支持期是&lt;strong&gt;从产品投放市场起算&lt;/strong&gt;&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;明确:本卡片不构成法律意见&lt;/strong&gt;;具体类目的合格评定程序、SBOM 数据结构,需查二级立法及 ETSI 协调标准&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2&gt;常见问题&lt;/h2&gt;
+&lt;p&gt;
+&lt;strong&gt;Q1:我是纯软件(SaaS / App)卖家,CRA 适用我吗?&lt;/strong&gt;
+&lt;br&gt;
+A:&lt;strong&gt;CRA 主要针对&amp;quot;带数字元素的产品&amp;quot;&lt;/strong&gt;,独立 SaaS 不直接适用;但如果你的软件是随硬件捆绑销售 / 配套使用的,软件部分受 CRA 约束。
+&lt;/p&gt;
+&lt;p&gt;
+&lt;strong&gt;Q2:亚马逊 2024 年起要求 DoC,CRA 是不是等于把这变成法律?&lt;/strong&gt;
+&lt;br&gt;
+A:&lt;strong&gt;是的&lt;/strong&gt;。DoC 的内容、格式、保存年限(10 年)全部受 CRA 规范,从平台要求升级为&lt;strong&gt;法规要求&lt;/strong&gt;。
+&lt;/p&gt;
+&lt;p&gt;
+&lt;strong&gt;Q3:5 年支持期对我这种&amp;quot;卖硬件不维护&amp;quot;的卖家意味着什么?&lt;/strong&gt;
+&lt;br&gt;
+A:&lt;strong&gt;必须改变商业模式&lt;/strong&gt;。5 年支持期是 CRA 的硬性义务,OEM 供应商合同里必须写明&lt;strong&gt;5 年安全更新承诺&lt;/strong&gt;,由供应商承担补丁开发与分发。
+&lt;/p&gt;
+&lt;p&gt;
+&lt;strong&gt;Q4:CRA 和 GDPR / NIS2 / RED 是什么关系?&lt;/strong&gt;
+&lt;br&gt;
+A:四者&lt;strong&gt;叠加适用&lt;/strong&gt;。CRA = 产品安全 + 漏洞处理;RED = 无线电产品;GDPR = 个人数据保护;NIS2 = 实体网络安全。&lt;strong&gt;ETSI EN 303 645&lt;/strong&gt; 是共同协调基线。
+&lt;/p&gt;
+&lt;h2&gt;官方 / 原始来源&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;EUR-Lex Regulation (EU) 2024/2847:&lt;a href=&quot;https://eur-lex.europa.eu/eli/reg/2024/2847/oj&quot;&gt;https://eur-lex.europa.eu/eli/reg/2024/2847/oj&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;European Commission CRA 概览:&lt;a href=&quot;https://digital-strategy.ec.europa.eu/en/policies/cyber-resilience-act&quot;&gt;https://digital-strategy.ec.europa.eu/en/policies/cyber-resilience-act&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;ENISA:&lt;a href=&quot;https://www.enisa.europa.eu/topics/incident-reporting&quot;&gt;https://www.enisa.europa.eu/topics/incident-reporting&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Amazon Seller Central — Compliance → Product Compliance&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2&gt;核对日期&lt;/h2&gt;
+&lt;p&gt;
+本卡片由编辑团队于 &lt;strong&gt;2026-07-14&lt;/strong&gt; 核对主要事实与 EUR-Lex 链接;法规文本以 EUR-Lex 官方发布版为准。&lt;strong&gt;该领域二级立法持续出台&lt;/strong&gt;(Annex III/IV 扩展、ETSI 协调标准、SBOM 数据结构),&lt;strong&gt;建议每 60-90 天复核一次&lt;/strong&gt;。
+&lt;/p&gt;
+&lt;h2&gt;风险提示与免责声明&lt;/h2&gt;
+&lt;p&gt;
+本站是&lt;strong&gt;信息整理和辅助判断工具&lt;/strong&gt;,&lt;strong&gt;不构成法律、税务、认证或专业合规意见&lt;/strong&gt;。具体执行请咨询&lt;strong&gt;有欧盟网络安全合规资质的律师、检测机构或公告机构&lt;/strong&gt;。法规与平台规则持续更新,本卡片信息可能与最新原文存在差异。
+&lt;/p&gt;
+&lt;h2&gt;相关规则&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&quot;/radar/eu-gpsr-responsible-person&quot;&gt;欧盟 GPSR 通用产品安全法规 已生效:亚马逊欧洲站卖家必须完成的责任人信息&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;/radar/eu-batteries-regulation-2023-1542&quot;&gt;欧盟电池与废电池法规 已生效:2025-08-18 强制实施,亚马逊对含电池商品启动合规管控&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;/radar/eu-ppwr-2025-40&quot;&gt;欧盟 PPWR 包装与包装废弃物法规 已发布:2026-08-12 全面适用,替代原 94/62/EC 指令&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2&gt;相关清单&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&quot;/checklists/pre-listing-documents&quot;&gt;产品上架前资料检查清单&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;/checklists/new-seller-basics&quot;&gt;新卖家开店基础资料检查清单&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;/checklists/compliance-notice-48h&quot;&gt;收到平台合规通知后的 48 小时应对清单&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;</content:encoded><category>产品安全</category><category>网络安全</category><category>标签与说明书</category><category>平台合规</category></item><item><title>欧盟 ESPR 生态设计法规 已生效:数字产品护照 (DPP) 分阶段落地,几乎所有物理产品受波及</title><link>https://weiread.com/radar/eu-espr-2024-1781/</link><guid isPermaLink="true">https://weiread.com/radar/eu-espr-2024-1781/</guid><description>欧盟《可持续产品生态设计法规》(EU) 2024/1781 于 2024-07-18 生效,2025-2027 按产品类分阶段开始执行,首次把&apos;数字产品护照 DPP + 可修复性指数 + 再生原料 + 碳足迹&apos;写进硬性义务,几乎覆盖所有物理产品(食品 / 药品 / 军火明确豁免)。是 PPWR / Batteries / 纺织品 DPP 的母法,亚马逊欧洲站卖家要按品类提前布局。</description><pubDate>Tue, 14 Jul 2026 00:00:00 GMT</pubDate><content:encoded>&lt;p&gt;&lt;em&gt;欧盟《可持续产品生态设计法规》(EU) 2024/1781 于 2024-07-18 生效,2025-2027 按产品类分阶段开始执行,首次把&apos;数字产品护照 DPP + 可修复性指数 + 再生原料 + 碳足迹&apos;写进硬性义务,几乎覆盖所有物理产品(食品 / 药品 / 军火明确豁免)。是 PPWR / Batteries / 纺织品 DPP 的母法,亚马逊欧洲站卖家要按品类提前布局。&lt;/em&gt;&lt;/p&gt;
+&lt;h2&gt;一句话结论&lt;/h2&gt;
+&lt;p&gt;
+ESPR (EU) 2024/1781 是 PPWR / 电池护照 / 纺织品 DPP 的&lt;strong&gt;母法&lt;/strong&gt;,2024-07-18 生效,首批产品类(纺织品 / 电子产品 / 家具 / 床垫 / 轮胎 / 洗涤剂 / 油漆 / 钢铁)的&lt;strong&gt;数字产品护照 DPP&lt;/strong&gt;在 2025-2027 分阶段强制 —— 卖家要按品类提前 12-18 个月规划。覆盖&lt;strong&gt;几乎所有物理产品&lt;/strong&gt;(食品 / 药品 / 军火明确豁免),处罚由各成员国设定,必须&amp;quot;effective, proportionate and dissuasive&amp;quot;。
+&lt;/p&gt;
+&lt;h2&gt;适用范围&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;法规级别&lt;/strong&gt;:欧盟 &lt;strong&gt;Regulation&lt;/strong&gt;(直接适用全境)&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;覆盖范围&lt;/strong&gt;:&lt;strong&gt;所有在欧盟市场投放或投入使用的物理产品&lt;/strong&gt;(physical goods)&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;替代关系&lt;/strong&gt;:ESPR 取代原 &lt;strong&gt;Directive 2009/125/EC&lt;/strong&gt;(Ecodesign 生态设计指令)+ 部分内容与 &lt;strong&gt;(EU) 2024/825&lt;/strong&gt; 联合协调&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;典型适用产品&lt;/strong&gt;(目前已知首批 / 计划优先规制品类):&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;
+  - 纺织品与服装
+&lt;br&gt;
+  - 电子产品与电气设备(具体类目待二级立法)
+&lt;br&gt;
+  - 家具与床垫
+&lt;br&gt;
+  - 轮胎
+&lt;br&gt;
+  - 洗涤剂与清洁产品
+&lt;br&gt;
+  - 油漆与涂料
+&lt;br&gt;
+  - 钢铁与建材
+&lt;br&gt;
+  - 中间产品(化工、塑料、橡胶制品)
+&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;明确豁免&lt;/strong&gt;(Article 2):&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;
+  - 食品、饲料、药品、医疗器械、人用/兽用产品
+&lt;br&gt;
+  - 公路、铁路、水路、航空运输工具(客车 / 货车 / 船舶 / 飞机)
+&lt;br&gt;
+  - 军用 / 国防 / 航天产品
+&lt;br&gt;
+  - 文化遗产保护产品(古董)
+&lt;br&gt;
+  - 种子、植物等活体产品
+&lt;/p&gt;
+&lt;h2&gt;关键时间线&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;2024-06-28&lt;/strong&gt;:&lt;strong&gt;Regulation (EU) 2024/1781&lt;/strong&gt; 在 Official Journal (L 2024/1781) 正式发布&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;2024-07-18&lt;/strong&gt;:&lt;strong&gt;生效&lt;/strong&gt;(entry into force)&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;2025-04-18&lt;/strong&gt;:&lt;strong&gt;首个 ESPR 工作计划&lt;/strong&gt;(working plan) 由欧盟委员会采纳&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;2025-07-18&lt;/strong&gt;:ESPR &lt;strong&gt;主体条款开始适用&lt;/strong&gt;(18 个月过渡期)&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;2026-2027&lt;/strong&gt;:首批&lt;strong&gt;授权立法&lt;/strong&gt;(delegated acts) + &lt;strong&gt;数字产品护照 DPP&lt;/strong&gt; 在具体产品类上强制&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;2030+&lt;/strong&gt;:覆盖更多产品类,各产品类分别有 18 个月过渡期&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;注&lt;/strong&gt;:每个产品类的具体时间表由单独的 &lt;strong&gt;Delegated Regulation&lt;/strong&gt; 决定,&lt;strong&gt;首批 DPP 强制时间多在 2025-2028 之间&lt;/strong&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2&gt;核心义务 —— 产品性能要求框架&lt;/h2&gt;
+&lt;p&gt;
+ESPR 在 Annex I 列出了&lt;strong&gt;通用性能要求框架&lt;/strong&gt;,具体阈值由&lt;strong&gt;授权立法&lt;/strong&gt;(delegated acts)按产品类细化:
+&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;耐用性&lt;/strong&gt;(durability):产品预期寿命的最低标准&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;可修复性&lt;/strong&gt;(reparability / repair index):可维修性评分 + 易获取的维修信息&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;可回收性&lt;/strong&gt;(recyclability):产品报废后可回收材料占比&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;再生原料含量&lt;/strong&gt;(recycled content):强制最低再生原料比例&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;碳足迹与环境影响足迹&lt;/strong&gt;(carbon &amp;amp; environmental footprint):基于 PEF 方法(与 PPWR 协同)&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;物质限制&lt;/strong&gt;:有害物质管控(与 REACH 协同)&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;能效与水资源效率&lt;/strong&gt;:能源 / 水消耗最低标准&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;可持续供应链&lt;/strong&gt;:供应链尽职调查&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;产品信息&lt;/strong&gt;:产品标签、说明书、合规信息的最低要求&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2&gt;数字产品护照 DPP (Digital Product Passport) 详解&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;形式&lt;/strong&gt;:每件产品配 &lt;strong&gt;DPP 标识&lt;/strong&gt;(二维码 / RFID / NFC 标签),扫码即获取产品合规数据&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;数据范围&lt;/strong&gt;:碳足迹、再生原料、可修复性指数、制造商信息、CE 标志、维修指南、回收路径&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;数据载体&lt;/strong&gt;:DPP 数据由&lt;strong&gt;欧盟中央注册系统&lt;/strong&gt;统一管理;访问方包括消费者、监管机构、维修商、回收商&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;强制时间&lt;/strong&gt;:按产品类分阶段,&lt;strong&gt;首批 2025-2027 强制&lt;/strong&gt;(具体看二级立法)&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;重要前置&lt;/strong&gt;:&lt;strong&gt;电池护照&lt;/strong&gt;(Digital Battery Passport)是 DPP 的&lt;strong&gt;特例&lt;/strong&gt;,由 EU 2023/1542 单独规定;&lt;strong&gt;纺织品 DPP&lt;/strong&gt; 是 ESPR 首批强制项之一&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;与 PPWR 关系&lt;/strong&gt;:PPWR 包装部分也要求&amp;quot;包装 + 产品&amp;quot;协同的 DPP 数据结构&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2&gt;合规清单(自检 5 项)&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;[ ] &lt;strong&gt;产品是否豁免确认&lt;/strong&gt;:食品 / 药品 / 军用 / 公路铁路水运航空运输工具 → 暂时不直接受 ESPR 约束;其余物理产品均受波及&lt;/li&gt;
+&lt;li&gt;[ ] &lt;strong&gt;产品类 DPP 时间表已确认&lt;/strong&gt;:订阅欧盟委员会 ESPR 工作计划,看自己品类首批 / 后续批次时间&lt;/li&gt;
+&lt;li&gt;[ ] &lt;strong&gt;OEM 已能提供合规数据&lt;/strong&gt;:可修复性 / 耐用性 / 再生原料 / 碳足迹&lt;/li&gt;
+&lt;li&gt;[ ] &lt;strong&gt;DPP 数据采集流程已搭建&lt;/strong&gt;:成分、原料来源、维修手册、回收路径&lt;/li&gt;
+&lt;li&gt;[ ] &lt;strong&gt;PPWR 包装协同准备&lt;/strong&gt;:同时满足包装法规的 DPP 数据结构与物质限制&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2&gt;你现在要做什么(按产品类)&lt;/h2&gt;
+&lt;p&gt;
+&lt;strong&gt;所有品类卖家(必做):&lt;/strong&gt;
+&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;&lt;strong&gt;盘点产品是否在豁免清单内&lt;/strong&gt;。食品 / 药品 / 军用 / 运输工具 → 暂时不直接受 ESPR 约束,但衍生 / 配件 / 包装可能间接受影响&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;订阅欧盟委员会 ESPR 工作计划&lt;/strong&gt;。首批产品类在 2025-04 公布,&lt;strong&gt;官方入口&lt;/strong&gt;:&lt;a href=&quot;https://ec.europa.eu/info/energy-climate-change-environment/standards-tools-and-databases/products-mechanisms&lt;em&gt;en&quot;&gt;https://ec.europa.eu/info/energy-climate-change-environment/standards-tools-and-databases/products-mechanisms&lt;/em&gt;en&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;关注产品类 Delegated Regulation 时间表&lt;/strong&gt;。一旦某类产品被纳入,会有 18 个月过渡期&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;
+&lt;strong&gt;首批优先品类(纺织品 / 电子 / 家具等)卖家(快做):&lt;/strong&gt;
+&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;&lt;strong&gt;OEM 协同&lt;/strong&gt;:让供应商准备&lt;strong&gt;可修复性 / 耐用性 / 再生原料&lt;/strong&gt;数据&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;建立 DPP 数据采集流程&lt;/strong&gt;:产品成分、原料来源、维修手册、回收路径&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;DPP 系统对接&lt;/strong&gt;:选 DPP 数据服务方(目前有 Cirpass / DPP Lab / 自建)&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;包装协同&lt;/strong&gt;:同时满足 PPWR 的包装 + DPP 数据结构&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;碳足迹基础工作&lt;/strong&gt;:PEF 方法学(与 PPWR / 电池护照同基线)&lt;/li&gt;
+&lt;/ol&gt;
+&lt;h2&gt;亚马逊相关动作&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;亚马逊欧洲站&lt;strong&gt;目前未对 ESPR 单独建合规门户&lt;/strong&gt;(暂未要求上传 DPP),但&lt;strong&gt;包装标签&lt;/strong&gt;受 PPWR 影响&lt;/li&gt;
+&lt;li&gt;亚马逊可能成为&lt;strong&gt;DPP 数据消费者&lt;/strong&gt;之一(平台需要展示合规数据),提前与亚马逊客户经理沟通预期&lt;/li&gt;
+&lt;li&gt;纺织品 / 电子产品等大品类可能先被亚马逊纳入&amp;quot;产品合规高优先级&amp;quot;&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Listing 商品描述&lt;/strong&gt;建议加注&amp;quot;DPP 准备中&amp;quot;或&amp;quot;碳足迹公开&amp;quot;等透明化信号&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2&gt;不处理的潜在影响&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;可能&lt;/strong&gt;:被纳入首批产品类后,欧盟海关对&lt;strong&gt;未配备 DPP&lt;/strong&gt; 的产品扣留&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;可能&lt;/strong&gt;:成员国市场监管机构罚款(各成员国设定阈值,但 ESPR 要求&amp;quot;有效、相称、有威慑力&amp;quot;)&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;可能&lt;/strong&gt;:亚马逊对&lt;strong&gt;未合规的纺织品 / 电子产品&lt;/strong&gt;限流(平台规则 + 法规要求双重作用)&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;明确:本卡片不构成法律意见&lt;/strong&gt;;具体产品类的 DPP 时间表、性能阈值、再生原料比例,需查具体的 &lt;strong&gt;Delegated Regulation&lt;/strong&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2&gt;常见误区&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;误区 1:&amp;quot;我卖的不是纺织品,ESPR 不适用&amp;quot;&lt;/strong&gt; —— 错。ESPR 覆盖&lt;strong&gt;几乎所有物理产品&lt;/strong&gt;,首批优先纺织品 / 电子 / 家具,后续扩展到钢铁 / 化工 / 建材 / 中间产品,&lt;strong&gt;任何欧盟卖家早晚受影响&lt;/strong&gt;。&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;误区 2:&amp;quot;DPP 是 5 年后才强制的事&amp;quot;&lt;/strong&gt; —— 错。纺织品 / 电子产品 DPP 在 &lt;strong&gt;2025-2027 期间&lt;/strong&gt;分阶段强制,&lt;strong&gt;OEM / 供应商对接至少要 12-18 个月&lt;/strong&gt;才能完成。&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;误区 3:&amp;quot;DPP 等同于产品溯源&amp;quot;&lt;/strong&gt; —— 部分对但不全。DPP 是&lt;strong&gt;合规数据&lt;/strong&gt; + 碳足迹 + 可修复性 + 维修信息,远超过传统溯源的范围。&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;误区 4:&amp;quot;ESPR 和 PPWR 是一回事&amp;quot;&lt;/strong&gt; —— 不。ESPR 主管&lt;strong&gt;产品本身&lt;/strong&gt;(产品设计 + 性能);PPWR 主管&lt;strong&gt;包装&lt;/strong&gt;(包装材料 + 物质)。两者协同,数据可互相引用。&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2&gt;官方 / 原始来源&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;EUR-Lex Regulation (EU) 2024/1781:&lt;a href=&quot;https://eur-lex.europa.eu/eli/reg/2024/1781/oj&quot;&gt;https://eur-lex.europa.eu/eli/reg/2024/1781/oj&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;European Commission ESPR 概览:&lt;a href=&quot;https://environment.ec.europa.eu/topics/circular-economy/eu-ecodesign-regulation&lt;em&gt;en&quot;&gt;https://environment.ec.europa.eu/topics/circular-economy/eu-ecodesign-regulation&lt;/em&gt;en&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;CIRPASS(欧盟 DPP 试点项目):&lt;a href=&quot;https://cirpass-project.eu&quot;&gt;https://cirpass-project.eu&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Amazon Seller Central — Compliance 入口(Seller Central 登录后查阅)&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2&gt;核对日期&lt;/h2&gt;
+&lt;p&gt;
+本卡片由编辑团队于 &lt;strong&gt;2026-07-14&lt;/strong&gt; 核对主要事实与 EUR-Lex 链接;法规文本以 EUR-Lex 官方发布版为准。&lt;strong&gt;该领域二级立法持续出台&lt;/strong&gt;(各产品类的 Delegated Regulation 陆续发布),&lt;strong&gt;建议每 60-90 天复核一次&lt;/strong&gt;。
+&lt;/p&gt;
+&lt;h2&gt;风险提示与免责声明&lt;/h2&gt;
+&lt;p&gt;
+本站是&lt;strong&gt;信息整理和辅助判断工具&lt;/strong&gt;,&lt;strong&gt;不构成法律、税务、认证或专业合规意见&lt;/strong&gt;。具体执行请咨询&lt;strong&gt;有欧盟可持续产品合规资质的律师、合规顾问或认证机构&lt;/strong&gt;。法规与平台规则持续更新,本卡片信息可能与最新原文存在差异。
+&lt;/p&gt;
+&lt;h2&gt;相关规则&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&quot;/radar/eu-ppwr-2025-40&quot;&gt;欧盟 PPWR 包装与包装废弃物法规 已发布:2026-08-12 全面适用,替代原 94/62/EC 指令&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;/radar/eu-batteries-regulation-2023-1542&quot;&gt;欧盟电池与废电池法规 已生效:2025-08-18 强制实施,亚马逊对含电池商品启动合规管控&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;/radar/eu-gpsr-responsible-person&quot;&gt;欧盟 GPSR 通用产品安全法规 已生效:亚马逊欧洲站卖家必须完成的责任人信息&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;/radar/eu-eprel-energy-label&quot;&gt;欧盟能源标签 EPREL 法规:电气产品进入欧盟前必须完成&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2&gt;相关清单&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&quot;/checklists/pre-listing-documents&quot;&gt;产品上架前资料检查清单&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;/checklists/new-seller-basics&quot;&gt;新卖家开店基础资料检查清单&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;/checklists/compliance-notice-48h&quot;&gt;收到平台合规通知后的 48 小时应对清单&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;</content:encoded><category>环保合规</category><category>产品安全</category><category>标签与说明书</category><category>平台合规</category></item><item><title>欧盟 EUDR 反毁林法规 已生效:2025-12-30 大企业全面适用,亚马逊对 7 类商品要求 DDS</title><link>https://weiread.com/radar/eu-eudr-2023-1115/</link><guid isPermaLink="true">https://weiread.com/radar/eu-eudr-2023-1115/</guid><description>欧盟《反毁林法规》(EU) 2023/1115 于 2023-06-29 生效,经 2024/3234 修订,大型 / 中型经营者适用日期为 2025-12-30,微小企业延后至 2026-06-30。覆盖牛肉 / 可可 / 咖啡 / 棕榈油 / 橡胶 / 大豆 / 木材及衍生品,要求尽职调查声明 DDS + 地块地理坐标 + 不毁林证明(2020-12-31 cutoff)。亚马逊对 7 类商品已发布公告。</description><pubDate>Tue, 14 Jul 2026 00:00:00 GMT</pubDate><content:encoded>&lt;p&gt;&lt;em&gt;欧盟《反毁林法规》(EU) 2023/1115 于 2023-06-29 生效,经 2024/3234 修订,大型 / 中型经营者适用日期为 2025-12-30,微小企业延后至 2026-06-30。覆盖牛肉 / 可可 / 咖啡 / 棕榈油 / 橡胶 / 大豆 / 木材及衍生品,要求尽职调查声明 DDS + 地块地理坐标 + 不毁林证明(2020-12-31 cutoff)。亚马逊对 7 类商品已发布公告。&lt;/em&gt;&lt;/p&gt;
+&lt;h2&gt;一句话结论&lt;/h2&gt;
+&lt;p&gt;
+如果你的产品是&lt;strong&gt;木材 / 棕榈油 / 橡胶 / 可可 / 咖啡 / 大豆 / 牛肉&lt;/strong&gt;及衍生品(皮革 / 巧克力 / 纸 / 家具 / 印刷品等),2025-12-30 起大企业适用、2026-06-30 起微小企业适用 —— 卖家必须&lt;strong&gt;逐批次上传&lt;/strong&gt;尽职调查声明 DDS(EU 信息系统,前称 TRACES NT)+ &lt;strong&gt;地块地理坐标&lt;/strong&gt;(geolocation polygons)+ &lt;strong&gt;不毁林证明&lt;/strong&gt;(2020-12-31 后未毁林)。亚马逊已发布公告,7 类商品分阶段被要求 DDS。
+&lt;/p&gt;
+&lt;h2&gt;适用范围&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;法规级别&lt;/strong&gt;:欧盟 &lt;strong&gt;Regulation&lt;/strong&gt;(直接适用全境)&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;覆盖范围&lt;/strong&gt;:&lt;strong&gt;7 类商品及其衍生品&lt;/strong&gt;(Article 3 + Annex I)&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;7 类原料商品&lt;/strong&gt;:牛肉(cattle)、可可(cocoa)、咖啡(coffee)、棕榈油(palm oil)、橡胶(rubber)、大豆(soya)、木材(wood)&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;典型衍生品&lt;/strong&gt;:&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;
+  - &lt;strong&gt;木材 →&lt;/strong&gt; 木制品、家具、纸浆、纸、印刷品、木炭、胶合板、刨花板
+&lt;br&gt;
+  - &lt;strong&gt;棕榈油 →&lt;/strong&gt; 食用油、生物燃料、化妆品原料
+&lt;br&gt;
+  - &lt;strong&gt;橡胶 →&lt;/strong&gt; 轮胎、橡胶手套、密封件
+&lt;br&gt;
+  - &lt;strong&gt;大豆 →&lt;/strong&gt; 饲料、生物燃料、大豆油
+&lt;br&gt;
+  - &lt;strong&gt;可可 →&lt;/strong&gt; 巧克力、糖果、可可脂 / 粉
+&lt;br&gt;
+  - &lt;strong&gt;咖啡 →&lt;/strong&gt; 烘焙 / 速溶 / 胶囊
+&lt;br&gt;
+  - &lt;strong&gt;牛肉 →&lt;/strong&gt; 皮革、明胶、牛肉副产品
+&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;不适用&lt;/strong&gt;:Article 1(2) 例外 —— 已加工到 end-of-life / 循环利用 / 回收材料的产品有部分豁免&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2&gt;关键时间线&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;2023-06-09&lt;/strong&gt;:&lt;strong&gt;Regulation (EU) 2023/1115&lt;/strong&gt; 在 Official Journal 发布&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;2023-06-29&lt;/strong&gt;:&lt;strong&gt;生效&lt;/strong&gt;(entry into force)&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;2020-12-31&lt;/strong&gt;:&lt;strong&gt;毁林 cutoff 日期&lt;/strong&gt;:产品在 2020-12-31 之后不得有毁林行为&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;2024-09-19&lt;/strong&gt;:&lt;strong&gt;Regulation (EU) 2024/3234 修订&lt;/strong&gt;:延期原定 2024-12-30 适用日期&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;2025-12-30&lt;/strong&gt;:&lt;strong&gt;大型 / 中型经营者开始适用 EUDR 主体义务&lt;/strong&gt;(亚马逊公告的 deadline)&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;2026-06-30&lt;/strong&gt;:&lt;strong&gt;小型 / 微型企业&lt;/strong&gt;开始适用&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;2028-06-30&lt;/strong&gt;:&lt;strong&gt;首次全面评估&lt;/strong&gt;:欧盟委员会评估法规成效,可能扩列&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2&gt;核心义务 —— 经营者 / 贸易商&lt;/h2&gt;
+&lt;p&gt;
+EUDR 区分&lt;strong&gt;经营者(operator)&lt;/strong&gt;、&lt;strong&gt;大型贸易商 / 中型贸易商&lt;/strong&gt;两类主体,义务递减:
+&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;经营者&lt;/strong&gt;(将 EUDR 商品首次投放欧盟市场 + 出口):完整 3 步骤 DDS&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;大型贸易商&lt;/strong&gt;(已投放欧盟市场后的销售):同样需要 3 步骤 DDS&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;小型贸易商&lt;/strong&gt;(员工 &amp;lt; 250 人 + 营收 ≤ 4000 万欧元):&lt;strong&gt;简化 DDS&lt;/strong&gt;&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;微小企业&lt;/strong&gt;(员工 &amp;lt; 10 人 + 营收 ≤ 200 万欧元):&lt;strong&gt;只保留&amp;quot;可追溯性记录&amp;quot;&lt;/strong&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;
+&amp;gt; &lt;strong&gt;亚马逊卖家最常见身份&lt;/strong&gt;:经营者(own brand)或大型贸易商(reseller),均需完整 DDS。
+&lt;/p&gt;
+&lt;h2&gt;核心义务 —— 三步骤尽职调查(Due Diligence)&lt;/h2&gt;
+&lt;p&gt;
+&lt;strong&gt;第 1 步:信息收集&lt;/strong&gt;(Article 9)
+&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;商品描述(HS code、品类、规格、产地)&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;生产/养殖地块的地理坐标&lt;/strong&gt;(geolocation,polygon 形式):农业用地多边形 ≤ 4 公顷(理想 ≤ 0.5 公顷)&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;供应商名称、地址、联系方式&lt;/strong&gt;&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;生产国、生产地区(province/district)&lt;/strong&gt;&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;是否符合当地法律&lt;/strong&gt;(legality)&lt;/li&gt;
+&lt;li&gt;不毁林证明(satellite 影像 / 第三方认证 / 政府数据)&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;
+&lt;strong&gt;第 2 步:风险评估&lt;/strong&gt;(Article 10)
+&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;国家 + 地区 + 产地三级的毁林风险评估&lt;/li&gt;
+&lt;li&gt;供应链尽职调查(是否存在混源 / 不明来源)&lt;/li&gt;
+&lt;li&gt;与第三方认证(FSC / PEFC / RSPO / RTRS / 4C 等)交叉核对&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;
+&lt;strong&gt;第 3 步:风险缓解&lt;/strong&gt;(Article 11)
+&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;高风险商品:&lt;strong&gt;额外的独立第三方审计&lt;/strong&gt;&lt;/li&gt;
+&lt;li&gt;与供应商签订&lt;strong&gt;合规采购承诺&lt;/strong&gt;(contractual clauses)&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;暂停 / 退出&lt;/strong&gt;高风险供应链关系&lt;/li&gt;
+&lt;li&gt;持续监测毁林风险&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2&gt;提交与监管:EIS 系统&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;EU Information System&lt;/strong&gt;(前称 TRACES NT,2024 年底升级):卖家&lt;strong&gt;逐批次&lt;/strong&gt;在系统中提交 &lt;strong&gt;DDS Reference Number&lt;/strong&gt;&lt;/li&gt;
+&lt;li&gt;提交方:欧盟境内的首次经营者(operateur,可以是进口商 / 品牌方 / 本土代表)&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;非欧盟卖家&lt;/strong&gt;(如中国 / 美国品牌方):通常通过&lt;strong&gt;欧盟授权代表&lt;/strong&gt;(Authorised Representative)代为提交&lt;/li&gt;
+&lt;li&gt;海关凭 &lt;strong&gt;DDS Reference Number&lt;/strong&gt; 放行,无编号的批次会被&lt;strong&gt;扣留 / 退回&lt;/strong&gt;&lt;/li&gt;
+&lt;li&gt;数据保留 &lt;strong&gt;5 年&lt;/strong&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2&gt;处罚与执法&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;罚款&lt;/strong&gt;:最高&lt;strong&gt;成员国年度营业额 4%&lt;/strong&gt;(按 EU 营业额计)+ 没收产品 / 收益&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;经营许可限制&lt;/strong&gt;:严重违规者临时吊销在欧盟的经营资格&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;追溯时效&lt;/strong&gt;:违规行为的罚款时效为 &lt;strong&gt;5 年&lt;/strong&gt;&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;政府采购黑名单&lt;/strong&gt;:违反 EUDR 的实体在 3 年内可能无法参与欧盟公共采购&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2&gt;你现在要做什么(按商品类)&lt;/h2&gt;
+&lt;p&gt;
+&lt;strong&gt;直接命中 7 类原料的卖家(木材 / 棕榈油 / 橡胶 / 可可 / 咖啡 / 大豆 / 牛肉):&lt;/strong&gt;
+&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;&lt;strong&gt;2025-10 前&lt;/strong&gt;完成 &lt;strong&gt;EUDR 信息收集模板&lt;/strong&gt;准备,生产地块多边形数据&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;供应商对接&lt;/strong&gt;:让农场 / 种植园 / 牧场 / 林场提供&lt;strong&gt;地块坐标 + 砍伐 / 种植历史 + 第三方认证&lt;/strong&gt;(FSC / PEFC / RSPO / 4C 等)&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;风险评估 + 缓解文件&lt;/strong&gt;:建立内部 EUDR 合规手册&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;EU Information System 注册&lt;/strong&gt;:通过&lt;strong&gt;欧盟授权代表&lt;/strong&gt;或直接进口商完成(非欧盟卖家必须通过 AR)&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;持续监测&lt;/strong&gt;:每批货的 DDS 独立提交(同商品不同批次需独立提交)&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;
+&lt;strong&gt;衍生品卖家(皮革 / 巧克力 / 印刷品 / 家具 / 轮胎等):&lt;/strong&gt;
+&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;&lt;strong&gt;追溯原料溯源&lt;/strong&gt;:对每批原料(皮革、棕榈油衍生物、橡胶原料)收集供应商 DDS 副本&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;下游再加工&lt;/strong&gt;:最终组装环节要求前序加工商提供 EUDR 合规声明&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;记录保留 5 年&lt;/strong&gt;:含原料来源、生产日期、DDS 引用&lt;/li&gt;
+&lt;/ol&gt;
+&lt;h2&gt;亚马逊相关动作&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;2025 年起&lt;/strong&gt;,亚马逊对 EUDR 管制商品的卖家&lt;strong&gt;逐步要求&lt;/strong&gt;提供 &lt;strong&gt;DDS Reference Number&lt;/strong&gt;&lt;/li&gt;
+&lt;li&gt;亚马逊通过 Seller Central &lt;strong&gt;Product Compliance 入口&lt;/strong&gt;上传 / 验证 DDS&lt;/li&gt;
+&lt;li&gt;7 类商品 ASIN &lt;strong&gt;将分阶段被锁定&lt;/strong&gt;直至 DDS 上传成功&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;2025-Q3 起&lt;/strong&gt;已观察到亚马逊主动给 EUDR 管制品卖家发送合规通知邮件&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2&gt;合规清单(自检 5 项)&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;[ ] &lt;strong&gt;产品是否命中 7 类原料 / 衍生品清单&lt;/strong&gt;(牛肉 / 可可 / 咖啡 / 棕榈油 / 橡胶 / 大豆 / 木材 及皮革 / 巧克力 / 纸 / 家具 / 轮胎 等)&lt;/li&gt;
+&lt;li&gt;[ ] &lt;strong&gt;生产地块地理坐标已采集&lt;/strong&gt;(polygon 形式)&lt;/li&gt;
+&lt;li&gt;[ ] &lt;strong&gt;供应商提供不毁林证明 + 第三方认证&lt;/strong&gt;(FSC / PEFC / RSPO / 4C 等)&lt;/li&gt;
+&lt;li&gt;[ ] &lt;strong&gt;EU Information System DDS 已注册&lt;/strong&gt;(通过欧盟授权代表 AR 或直接进口商)&lt;/li&gt;
+&lt;li&gt;[ ] &lt;strong&gt;5 年数据保留机制已建立&lt;/strong&gt;(原料来源、生产日期、DDS 引用)&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2&gt;不处理的潜在影响&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;高概率&lt;/strong&gt;:2025-12-30 后,&lt;strong&gt;未提交 DDS 的 EUDR 商品&lt;/strong&gt;在欧盟海关&lt;strong&gt;一律扣留&lt;/strong&gt;&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;高概率&lt;/strong&gt;:亚马逊对未上传 DDS 的 ASIN &lt;strong&gt;限流 / 下架&lt;/strong&gt;&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;可能&lt;/strong&gt;:成员国市场监管机构罚款(最高 EU 营业额 4%)+ 没收产品&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;可能&lt;/strong&gt;:3 年欧盟公共采购黑名单&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;明确:本卡片不构成法律意见&lt;/strong&gt;;具体商品类的 HS code 归类、衍生品范围、polygon 精度要求,需查 EUDR 二级立法及欧盟委员会 FAQ&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2&gt;常见误区&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;误区 1:&amp;quot;我卖的是包装纸,不是木材&amp;quot;&lt;/strong&gt; —— 错。纸浆、纸、印刷品都是木材的&lt;strong&gt;核心衍生品&lt;/strong&gt;。&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;误区 2:&amp;quot;我卖的是巧克力,不是可可豆&amp;quot;&lt;/strong&gt; —— 错。可可脂 / 可可粉 / 巧克力都是 EUDR 衍生品。&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;误区 3:&amp;quot;FSC / PEFC 认证 = EUDR 合规&amp;quot;&lt;/strong&gt; —— 部分对。FSC / PEFC 是第 1 步(信息收集)证据,但&lt;strong&gt;不替代&lt;/strong&gt;第 2 步(风险评估)+ 第 3 步(风险缓解)+ 实际 DDS 提交。&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;误区 4:&amp;quot;我是亚马逊 FBA,平台替我处理&amp;quot;&lt;/strong&gt; —— 不一定。FBA 物流 ≠ EUDR 合规;卖家仍需自行完成 DDS。&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;误区 5:&amp;quot;我不在欧盟,EUDR 不管我&amp;quot;&lt;/strong&gt; —— 错。EUDR 是&lt;strong&gt;产品法规&lt;/strong&gt;,任何&amp;quot;向欧盟投放 EUDR 商品&amp;quot;的行为都受其约束。&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2&gt;官方 / 原始来源&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;EUR-Lex Regulation (EU) 2023/1115:&lt;a href=&quot;https://eur-lex.europa.eu/eli/reg/2023/1115/oj&quot;&gt;https://eur-lex.europa.eu/eli/reg/2023/1115/oj&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;European Commission EUDR 概览:&lt;a href=&quot;https://environment.ec.europa.eu/topics/forests/deforestation/regulation-deforestation-free-products&lt;em&gt;en&quot;&gt;https://environment.ec.europa.eu/topics/forests/deforestation/regulation-deforestation-free-products&lt;/em&gt;en&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;EU Information System(EIS):&lt;a href=&quot;https://eudr.eu&quot;&gt;https://eudr.eu&lt;/a&gt;(EU Login + 专用门户)&lt;/li&gt;
+&lt;li&gt;Amazon Seller Central — Compliance → Product Compliance&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2&gt;核对日期&lt;/h2&gt;
+&lt;p&gt;
+本卡片由编辑团队于 &lt;strong&gt;2026-07-14&lt;/strong&gt; 核对主要事实与 EUR-Lex 链接;法规文本以 EUR-Lex 官方发布版为准。&lt;strong&gt;该领域二级立法持续出台&lt;/strong&gt;(HS code 归类、polygon 精度、AR 责任界定),&lt;strong&gt;建议每 60-90 天复核一次&lt;/strong&gt;。
+&lt;/p&gt;
+&lt;h2&gt;风险提示与免责声明&lt;/h2&gt;
+&lt;p&gt;
+本站是&lt;strong&gt;信息整理和辅助判断工具&lt;/strong&gt;,&lt;strong&gt;不构成法律、税务、认证或专业合规意见&lt;/strong&gt;。具体执行请咨询&lt;strong&gt;有欧盟供应链 / 毁林合规资质的律师或认证机构&lt;/strong&gt;。法规与平台规则持续更新,本卡片信息可能与最新原文存在差异。
+&lt;/p&gt;
+&lt;h2&gt;相关规则&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&quot;/radar/eu-ppwr-2025-40&quot;&gt;欧盟 PPWR 包装与包装废弃物法规 已发布:2026-08-12 全面适用,替代原 94/62/EC 指令&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;/radar/eu-batteries-regulation-2023-1542&quot;&gt;欧盟电池与废电池法规 已生效:2025-08-18 强制实施,亚马逊对含电池商品启动合规管控&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;/radar/eu-gpsr-responsible-person&quot;&gt;欧盟 GPSR 通用产品安全法规 已生效:亚马逊欧洲站卖家必须完成的责任人信息&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2&gt;相关清单&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&quot;/checklists/pre-listing-documents&quot;&gt;产品上架前资料检查清单&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;/checklists/new-seller-basics&quot;&gt;新卖家开店基础资料检查清单&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;/checklists/compliance-notice-48h&quot;&gt;收到平台合规通知后的 48 小时应对清单&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;</content:encoded><category>环保合规</category><category>供应链合规</category><category>标签与说明书</category><category>平台合规</category></item><item><title>欧盟 PPWR 包装与包装废弃物法规 已发布:2026-08-12 全面适用,替代原 94/62/EC 指令</title><link>https://weiread.com/radar/eu-ppwr-2025-40/</link><guid isPermaLink="true">https://weiread.com/radar/eu-ppwr-2025-40/</guid><description>欧盟《包装与包装废弃物法规》(EU) 2025/40 已于 2025-02-11 生效,并将于 2026-08-12 起全面执行(除另有规定),取代原 94/62/EC 包装指令。新规对所有投放欧盟市场的包装施加物质限制、最小化、标签、可回收/再生原料等多维度要求,亚马逊、TEMU、速卖通等已陆续通知平台合规管控。</description><pubDate>Tue, 14 Jul 2026 00:00:00 GMT</pubDate><content:encoded>&lt;p&gt;&lt;em&gt;欧盟《包装与包装废弃物法规》(EU) 2025/40 已于 2025-02-11 生效,并将于 2026-08-12 起全面执行(除另有规定),取代原 94/62/EC 包装指令。新规对所有投放欧盟市场的包装施加物质限制、最小化、标签、可回收/再生原料等多维度要求,亚马逊、TEMU、速卖通等已陆续通知平台合规管控。&lt;/em&gt;&lt;/p&gt;
 &lt;h2&gt;一句话结论&lt;/h2&gt;
 &lt;p&gt;
 如果你在欧盟销售带包装的商品,&lt;strong&gt;2026-08-12 起&lt;/strong&gt;新规 PPWR (EU) 2025/40 全面适用 —— 包装的物质含量(重金属 + PFAS)、最小化(空置容积 ≤ 50%)、标签(运营主体 + 批次追溯)、可回收等级(A/B/C,2030 起)等多个维度全部进入执法。平台已陆续推送合规通知,&lt;strong&gt;未完成全维度合规的在售商品可能被下架停售&lt;/strong&gt;。
