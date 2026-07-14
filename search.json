@@ -186,6 +186,19 @@
     "url": "https://weiread.com/radar/guide-8-terms/"
   },
   {
+    "slug": "guide-amazon-ads",
+    "title": "亚马逊广告 5 分钟入门:Sponsored Products 三个核心词搞懂就能开跑",
+    "summary": "站内广告不是高深活,3 个核心词(CPC / ACOS / ROI)搞懂就能开跑。新手从日预算 5-10 欧、3-5 个精准关键词、建议出价 +50% 起步,跑 7 天看 ACOS 就够了。",
+    "contentKind": "新手入门",
+    "status": "持续关注",
+    "riskLevel": "中",
+    "tags": [
+      "新手入门",
+      "站内运营"
+    ],
+    "url": "https://weiread.com/radar/guide-amazon-ads/"
+  },
+  {
     "slug": "guide-amazon-gpsr-email",
     "title": "亚马逊发邮件要 GPSR 文件,怎么回:3 套中英模板 + 师兄避坑指南",
     "summary": "刚开欧洲站就收到 Amazon Seller Central 的 GPSR / Responsible Person 邮件?别慌。这张卡告诉你第一步干啥、第二步干啥,提供 3 套中英对照回复模板,解释每句话为什么这么写。",
@@ -215,6 +228,19 @@
     "url": "https://weiread.com/radar/guide-ce-marking/"
   },
   {
+    "slug": "guide-fba-vs-fbm",
+    "title": "FBA vs 自发货(FBM):新手怎么选,一张表说清",
+    "summary": "FBA 是亚马逊帮你发货,FBM 是你自己发货。新手 99% 选 FBA:简单、Prime 标志、24 小时到货;FBM 留给大件、危险品、试款期。一张 5 维对比表 + 3 步决策法,看完就懂怎么选。",
+    "contentKind": "新手入门",
+    "status": "持续关注",
+    "riskLevel": "中",
+    "tags": [
+      "新手入门",
+      "物流"
+    ],
+    "url": "https://weiread.com/radar/guide-fba-vs-fbm/"
+  },
+  {
     "slug": "guide-pick-first-country",
     "title": "德国 / 法国 / 意大利,亚马逊欧洲站我先开哪个:流量、合规、物流一次说清",
     "summary": "新开欧洲站,德国 / 法国 / 意大利三国怎么选?德国流量最大、合规最全但要求最多,法国 Triman 标志容易踩坑,意大利流程相对轻。结论:德国先开,一次搞定后两国顺水推舟。",
@@ -227,6 +253,19 @@
       "市场选择"
     ],
     "url": "https://weiread.com/radar/guide-pick-first-country/"
+  },
+  {
+    "slug": "guide-product-pitfalls",
+    "title": "选品避坑:新手最容易踩的 5 个坑,踩中一个就血本无归",
+    "summary": "选品决定 80% 成功,但 5 个坑新手 100% 会踩:跟卖、太大件、有认证门槛、季节性强、同质化严重。5 道判断题答不上来就别选,这是开欧洲站前必须过的一关。",
+    "contentKind": "新手入门",
+    "status": "持续关注",
+    "riskLevel": "中",
+    "tags": [
+      "新手入门",
+      "选品"
+    ],
+    "url": "https://weiread.com/radar/guide-product-pitfalls/"
   },
   {
     "slug": "guide-seller-90days",
