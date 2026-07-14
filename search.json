@@ -171,5 +171,74 @@
       "标签与说明书"
     ],
     "url": "https://weiread.com/radar/france-epr-triman/"
+  },
+  {
+    "slug": "guide-8-terms",
+    "title": "亚马逊欧洲站 8 大合规名词一次搞懂:GPSR / CE / EPR / VAT 都啥意思",
+    "summary": "刚开欧洲站的小白一定被 GPSR / CE / EPR / VAT / EPREL / IOSS / PPWR / EUDR 这串缩写搞晕。这张卡用大白话讲清楚 8 个最常见名词,各是谁关心、什么时候管,3 分钟读完心里有底。",
+    "contentKind": "新手入门",
+    "status": "持续关注",
+    "riskLevel": "中",
+    "tags": [
+      "新手入门",
+      "合规基础"
+    ],
+    "url": "https://weiread.com/radar/guide-8-terms/"
+  },
+  {
+    "slug": "guide-amazon-gpsr-email",
+    "title": "亚马逊发邮件要 GPSR 文件,怎么回:3 套中英模板 + 师兄避坑指南",
+    "summary": "刚开欧洲站就收到 Amazon Seller Central 的 GPSR / Responsible Person 邮件?别慌。这张卡告诉你第一步干啥、第二步干啥,提供 3 套中英对照回复模板,解释每句话为什么这么写。",
+    "contentKind": "新手入门",
+    "status": "持续关注",
+    "riskLevel": "中",
+    "tags": [
+      "新手入门",
+      "产品安全",
+      "平台合规"
+    ],
+    "url": "https://weiread.com/radar/guide-amazon-gpsr-email/"
+  },
+  {
+    "slug": "guide-ce-marking",
+    "title": "CE 标识到底怎么打:新手避坑指南 + China Export 标志 5 万欧罚款警告",
+    "summary": "CE 是欧盟商品上的'合格证',几乎所有非食品电子 / 玩具 / 机械 / 医疗器械必须有。这张卡告诉你哪些产品要打 CE、8mm 高度怎么量、容易和 China Export 标志搞混的 5 万欧罚款雷区。",
+    "contentKind": "新手入门",
+    "status": "持续关注",
+    "riskLevel": "中",
+    "tags": [
+      "新手入门",
+      "产品安全",
+      "标签与说明书",
+      "平台合规"
+    ],
+    "url": "https://weiread.com/radar/guide-ce-marking/"
+  },
+  {
+    "slug": "guide-pick-first-country",
+    "title": "德国 / 法国 / 意大利,亚马逊欧洲站我先开哪个:流量、合规、物流一次说清",
+    "summary": "新开欧洲站,德国 / 法国 / 意大利三国怎么选?德国流量最大、合规最全但要求最多,法国 Triman 标志容易踩坑,意大利流程相对轻。结论:德国先开,一次搞定后两国顺水推舟。",
+    "contentKind": "新手入门",
+    "status": "持续关注",
+    "riskLevel": "中",
+    "tags": [
+      "新手入门",
+      "合规基础",
+      "市场选择"
+    ],
+    "url": "https://weiread.com/radar/guide-pick-first-country/"
+  },
+  {
+    "slug": "guide-seller-90days",
+    "title": "亚马逊欧洲站 90 天合规起步路线图:从 0 到基本合规怎么排活",
+    "summary": "新开欧洲站的卖家不用慌,90 天够你从 0 走到基本合规。这张卡按周排活,告诉你每一步该干什么、关联到哪张法规卡,像师兄带师弟一样一关一关过。",
+    "contentKind": "新手入门",
+    "status": "持续关注",
+    "riskLevel": "中",
+    "tags": [
+      "新手入门",
+      "合规基础"
+    ],
+    "url": "https://weiread.com/radar/guide-seller-90days/"
   }
 ]
