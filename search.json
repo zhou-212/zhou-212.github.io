@@ -1,0 +1,175 @@
+[
+  {
+    "slug": "de-lucid-packaging",
+    "title": "德国包装法 LUCID 与 EPR 注册:亚马逊德国站卖家必填",
+    "summary": "德国所有向德国终端消费者销售包装的卖家,必须在 LUCID 包装登记册注册并加入一个回收系统(dual system);亚马逊德国站从 2022 年起强制要求填写 LUCID 编号,未填会被自动下架。",
+    "contentKind": "基础规则",
+    "status": "生效中",
+    "riskLevel": "高",
+    "tags": [
+      "包装责任",
+      "环保合规",
+      "平台合规"
+    ],
+    "url": "https://weiread.com/radar/de-lucid-packaging/"
+  },
+  {
+    "slug": "eu-batteries-regulation-2023-1542",
+    "title": "欧盟电池与废电池法规 已生效:2025-08-18 强制实施,亚马逊对含电池商品启动合规管控",
+    "summary": "欧盟《电池与废电池法规》(EU) 2023/1542 已于 2025-08-18 全面适用,取代原 2006/66/EC 电池指令。新规覆盖碳足迹、再生原料、回收效率、电池护照、便携式 / LMT / SLI / 工业 / EV 五大类电池,亚马逊对在欧盟销售的含电池商品(充电宝、玩具、电子产品)启动合规管控。",
+    "contentKind": "近期更新",
+    "status": "生效中",
+    "riskLevel": "高",
+    "tags": [
+      "环保合规",
+      "产品安全",
+      "标签与说明书",
+      "平台合规"
+    ],
+    "url": "https://weiread.com/radar/eu-batteries-regulation-2023-1542/"
+  },
+  {
+    "slug": "eu-child-product-warnings",
+    "title": "欧盟儿童商品特定年龄警告规则(2024 强化版)",
+    "summary": "Amazon EU 对玩具、儿童用品强制要求 Age Warning / Safety Warning,且需在列表、详情页、包装、说明书多语种呈现;2024 年强化对未明确年龄分级商品的限流。",
+    "contentKind": "基础规则",
+    "status": "生效中",
+    "riskLevel": "高",
+    "tags": [
+      "产品安全",
+      "儿童与玩具",
+      "标签与说明书"
+    ],
+    "url": "https://weiread.com/radar/eu-child-product-warnings/"
+  },
+  {
+    "slug": "eu-cra-2024-2847",
+    "title": "欧盟 CRA 网络弹性法案 已生效:2027-12-11 全面适用,联网硬件 / 软件卖家必看",
+    "summary": "欧盟《网络弹性法案》(EU) 2024/2847 于 2024-12-10 生效,2027-12-11 起全面执行,首次把'联网产品'的默认安全、漏洞披露、5 年支持期、SBOM、CE 合格评定、ENISA 漏洞通报写进硬性义务。涵盖硬件 + 软件,处罚最高 1500 万欧元或全球营收 2.5%,亚马逊 2024 年起对联网产品已要求 DoC,CRA 让这变成强制。",
+    "contentKind": "近期更新",
+    "status": "即将生效",
+    "riskLevel": "高",
+    "tags": [
+      "产品安全",
+      "网络安全",
+      "标签与说明书",
+      "平台合规"
+    ],
+    "url": "https://weiread.com/radar/eu-cra-2024-2847/"
+  },
+  {
+    "slug": "eu-eprel-energy-label",
+    "title": "欧盟能效标签 EPREL 数据库:亚马逊欧洲站电气电子卖家 2024 持续强校验",
+    "summary": "欧盟在 2017/1369 框架下,要求电气电子类商品(白电、灯具、电视、吸尘器等)通过 EPREL 数据库登记能效标签信息;Amazon EU 会对无 EPREL 数据的产品下架或限流。",
+    "contentKind": "基础规则",
+    "status": "生效中",
+    "riskLevel": "中",
+    "tags": [
+      "产品安全",
+      "能效与环保",
+      "标签与说明书"
+    ],
+    "url": "https://weiread.com/radar/eu-eprel-energy-label/"
+  },
+  {
+    "slug": "eu-espr-2024-1781",
+    "title": "欧盟 ESPR 生态设计法规 已生效:数字产品护照 (DPP) 分阶段落地,几乎所有物理产品受波及",
+    "summary": "欧盟《可持续产品生态设计法规》(EU) 2024/1781 于 2024-07-18 生效,2025-2027 按产品类分阶段开始执行,首次把'数字产品护照 DPP + 可修复性指数 + 再生原料 + 碳足迹'写进硬性义务,几乎覆盖所有物理产品(食品 / 药品 / 军火明确豁免)。是 PPWR / Batteries / 纺织品 DPP 的母法,亚马逊欧洲站卖家要按品类提前布局。",
+    "contentKind": "近期更新",
+    "status": "即将生效",
+    "riskLevel": "高",
+    "tags": [
+      "环保合规",
+      "产品安全",
+      "标签与说明书",
+      "平台合规"
+    ],
+    "url": "https://weiread.com/radar/eu-espr-2024-1781/"
+  },
+  {
+    "slug": "eu-eudr-2023-1115",
+    "title": "欧盟 EUDR 反毁林法规 已生效:2025-12-30 大企业全面适用,亚马逊对 7 类商品要求 DDS",
+    "summary": "欧盟《反毁林法规》(EU) 2023/1115 于 2023-06-29 生效,经 2024/3234 修订,大型 / 中型经营者适用日期为 2025-12-30,微小企业延后至 2026-06-30。覆盖牛肉 / 可可 / 咖啡 / 棕榈油 / 橡胶 / 大豆 / 木材及衍生品,要求尽职调查声明 DDS + 地块地理坐标 + 不毁林证明(2020-12-31 cutoff)。亚马逊对 7 类商品已发布公告。",
+    "contentKind": "近期更新",
+    "status": "生效中",
+    "riskLevel": "高",
+    "tags": [
+      "环保合规",
+      "供应链合规",
+      "标签与说明书",
+      "平台合规"
+    ],
+    "url": "https://weiread.com/radar/eu-eudr-2023-1115/"
+  },
+  {
+    "slug": "eu-gpsr-responsible-person",
+    "title": "欧盟 GPSR 通用产品安全法规 已生效:亚马逊欧洲站卖家必须完成的责任人信息",
+    "summary": "2024 年 12 月 13 日起,在 Amazon EU 上架的多数非食品消费类商品必须显示欧盟责任人(Responsible Person)信息。卖家需要确认责任人主体、商品标识与上架资料完整,否则可能下架或限制销售。",
+    "contentKind": "基础规则",
+    "status": "生效中",
+    "riskLevel": "高",
+    "tags": [
+      "产品安全",
+      "标签与说明书",
+      "平台合规"
+    ],
+    "url": "https://weiread.com/radar/eu-gpsr-responsible-person/"
+  },
+  {
+    "slug": "eu-ioss-vat",
+    "title": "亚马逊 IOSS 欧盟远程销售增值税申报:€150 以下小包必备",
+    "summary": "从欧盟以外发往欧盟个人消费者、货值 ≤ €150 的小包,需在 IOSS(Import One-Stop Shop)进行增值税申报;IOSS 让消费者在结账时已付 VAT、清关更顺;Amazon EU 已在卖家后台集成 IOSS。",
+    "contentKind": "基础规则",
+    "status": "生效中",
+    "riskLevel": "中",
+    "tags": [
+      "税务",
+      "跨境物流",
+      "平台合规"
+    ],
+    "url": "https://weiread.com/radar/eu-ioss-vat/"
+  },
+  {
+    "slug": "eu-pld-2024-2853",
+    "title": "欧盟 PLD 产品责任指令 过渡期:2026-12-09 各成员国转化截止,软件/AI 卖家责任全面升级",
+    "summary": "2024-12-09 生效的新版产品责任指令, 取代 1985 年的旧指令. 首次将软件、AI、数据纳入产品范畴, 卖家需承担举证倒置、心理健康影响、网络安全漏洞等新型责任.",
+    "contentKind": "近期更新",
+    "status": "过渡期",
+    "riskLevel": "高",
+    "tags": [
+      "产品安全",
+      "法律责任",
+      "AI合规"
+    ],
+    "url": "https://weiread.com/radar/eu-pld-2024-2853/"
+  },
+  {
+    "slug": "eu-ppwr-2025-40",
+    "title": "欧盟 PPWR 包装与包装废弃物法规 已发布:2026-08-12 全面适用,替代原 94/62/EC 指令",
+    "summary": "欧盟《包装与包装废弃物法规》(EU) 2025/40 已于 2025-02-11 生效,并将于 2026-08-12 起全面执行(除另有规定),取代原 94/62/EC 包装指令。新规对所有投放欧盟市场的包装施加物质限制、最小化、标签、可回收/再生原料等多维度要求,亚马逊、TEMU、速卖通等已陆续通知平台合规管控。",
+    "contentKind": "近期更新",
+    "status": "即将生效",
+    "riskLevel": "高",
+    "tags": [
+      "包装责任",
+      "环保合规",
+      "标签与说明书",
+      "平台合规"
+    ],
+    "url": "https://weiread.com/radar/eu-ppwr-2025-40/"
+  },
+  {
+    "slug": "france-epr-triman",
+    "title": "法国 EPR Triman 标识 + 唯一识别符:亚马逊法国站 2022 起强制",
+    "summary": "法国要求在售商品 / 包装上印 Triman 标识 + 唯一识别符(可以理解为 EAN-like 的回收标记),亚马逊法国站从 2022 年起强制要求卖家提供 EPR 编号,否则 FBA 库存会逐步停运。",
+    "contentKind": "基础规则",
+    "status": "生效中",
+    "riskLevel": "高",
+    "tags": [
+      "包装责任",
+      "环保合规",
+      "标签与说明书"
+    ],
+    "url": "https://weiread.com/radar/france-epr-triman/"
+  }
+]
