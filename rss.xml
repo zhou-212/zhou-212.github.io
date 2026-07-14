@@ -1,1 +1,608 @@
-<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"><channel><title>欧规雷达 · 规则雷达更新</title><description>亚马逊欧洲站规则变化追踪 — 面向中国中小卖家的中文规则卡片。</description><link>https://weiread.com/</link><language>zh-CN</language><generator>Astro</generator><managingEditor>YOUR_CONTACT_EMAIL@example.com</managingEditor><item><title>欧盟 GPSR 通用产品安全法规 已生效:亚马逊欧洲站卖家必须完成的责任人信息</title><link>https://weiread.com/radar/eu-gpsr-responsible-person/</link><guid isPermaLink="true">https://weiread.com/radar/eu-gpsr-responsible-person/</guid><description>2024 年 12 月 13 日起,在 Amazon EU 上架的多数非食品消费类商品必须显示欧盟责任人(Responsible Person)信息。卖家需要确认责任人主体、商品标识与上架资料完整,否则可能下架或限制销售。</description><pubDate>Thu, 15 Jan 2026 00:00:00 GMT</pubDate><category>产品安全</category><category>标签与说明书</category><category>平台合规</category></item><item><title>欧盟儿童商品特定年龄警告规则(2024 强化版)</title><link>https://weiread.com/radar/eu-child-product-warnings/</link><guid isPermaLink="true">https://weiread.com/radar/eu-child-product-warnings/</guid><description>Amazon EU 对玩具、儿童用品强制要求 Age Warning / Safety Warning,且需在列表、详情页、包装、说明书多语种呈现;2024 年强化对未明确年龄分级商品的限流。</description><pubDate>Mon, 12 Jan 2026 00:00:00 GMT</pubDate><category>产品安全</category><category>儿童与玩具</category><category>标签与说明书</category></item><item><title>德国包装法 LUCID 与 EPR 注册:亚马逊德国站卖家必填</title><link>https://weiread.com/radar/de-lucid-packaging/</link><guid isPermaLink="true">https://weiread.com/radar/de-lucid-packaging/</guid><description>德国所有向德国终端消费者销售包装的卖家,必须在 LUCID 包装登记册注册并加入一个回收系统(dual system);亚马逊德国站从 2022 年起强制要求填写 LUCID 编号,未填会被自动下架。</description><pubDate>Sat, 10 Jan 2026 00:00:00 GMT</pubDate><category>包装责任</category><category>环保合规</category><category>平台合规</category></item><item><title>亚马逊 IOSS 欧盟远程销售增值税申报:€150 以下小包必备</title><link>https://weiread.com/radar/eu-ioss-vat/</link><guid isPermaLink="true">https://weiread.com/radar/eu-ioss-vat/</guid><description>从欧盟以外发往欧盟个人消费者、货值 ≤ €150 的小包,需在 IOSS(Import One-Stop Shop)进行增值税申报;IOSS 让消费者在结账时已付 VAT、清关更顺;Amazon EU 已在卖家后台集成 IOSS。</description><pubDate>Fri, 09 Jan 2026 00:00:00 GMT</pubDate><category>税务</category><category>跨境物流</category><category>平台合规</category></item><item><title>法国 EPR Triman 标识 + 唯一识别符:亚马逊法国站 2022 起强制</title><link>https://weiread.com/radar/france-epr-triman/</link><guid isPermaLink="true">https://weiread.com/radar/france-epr-triman/</guid><description>法国要求在售商品 / 包装上印 Triman 标识 + 唯一识别符(可以理解为 EAN-like 的回收标记),亚马逊法国站从 2022 年起强制要求卖家提供 EPR 编号,否则 FBA 库存会逐步停运。</description><pubDate>Thu, 08 Jan 2026 00:00:00 GMT</pubDate><category>包装责任</category><category>环保合规</category><category>标签与说明书</category></item><item><title>欧盟能效标签 EPREL 数据库:亚马逊欧洲站电气电子卖家 2024 持续强校验</title><link>https://weiread.com/radar/eu-eprel-energy-label/</link><guid isPermaLink="true">https://weiread.com/radar/eu-eprel-energy-label/</guid><description>欧盟在 2017/1369 框架下,要求电气电子类商品(白电、灯具、电视、吸尘器等)通过 EPREL 数据库登记能效标签信息;Amazon EU 会对无 EPREL 数据的产品下架或限流。</description><pubDate>Mon, 05 Jan 2026 00:00:00 GMT</pubDate><category>产品安全</category><category>能效与环保</category><category>标签与说明书</category></item></channel></rss>
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0" xmlns:content="http://purl.org/rss/1.0/modules/content/"><channel><title>欧规雷达 · 规则雷达更新</title><description>亚马逊欧洲站规则变化追踪 — 面向中国中小卖家的中文规则卡片。</description><link>https://weiread.com/</link><language>zh-CN</language><generator>Astro</generator><managingEditor>YOUR_CONTACT_EMAIL@example.com</managingEditor><item><title>欧盟 PPWR 包装与包装废弃物法规 已发布:2026-08-12 全面适用,替代原 94/62/EC 指令</title><link>https://weiread.com/radar/eu-ppwr-2025-40/</link><guid isPermaLink="true">https://weiread.com/radar/eu-ppwr-2025-40/</guid><description>欧盟《包装与包装废弃物法规》(EU) 2025/40 已于 2025-02-11 生效,并将于 2026-08-12 起全面执行(除另有规定),取代原 94/62/EC 包装指令。新规对所有投放欧盟市场的包装施加物质限制、最小化、标签、可回收/再生原料等多维度要求,亚马逊、TEMU、速卖通等已陆续通知平台合规管控。</description><pubDate>Tue, 14 Jul 2026 00:00:00 GMT</pubDate><content:encoded>&lt;p&gt;&lt;em&gt;欧盟《包装与包装废弃物法规》(EU) 2025/40 已于 2025-02-11 生效,并将于 2026-08-12 起全面执行(除另有规定),取代原 94/62/EC 包装指令。新规对所有投放欧盟市场的包装施加物质限制、最小化、标签、可回收/再生原料等多维度要求,亚马逊、TEMU、速卖通等已陆续通知平台合规管控。&lt;/em&gt;&lt;/p&gt;
+&lt;h2&gt;一句话结论&lt;/h2&gt;
+&lt;p&gt;
+如果你在欧盟销售带包装的商品,&lt;strong&gt;2026-08-12 起&lt;/strong&gt;新规 PPWR (EU) 2025/40 全面适用 —— 包装的物质含量(重金属 + PFAS)、最小化(空置容积 ≤ 50%)、标签(运营主体 + 批次追溯)、可回收等级(A/B/C,2030 起)等多个维度全部进入执法。平台已陆续推送合规通知,&lt;strong&gt;未完成全维度合规的在售商品可能被下架停售&lt;/strong&gt;。
+&lt;/p&gt;
+&lt;h2&gt;适用范围&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;法规级别&lt;/strong&gt;:欧盟 &lt;strong&gt;Regulation&lt;/strong&gt;(直接适用全境),&lt;strong&gt;替代&lt;/strong&gt; 原 Directive 94/62/EC(自 2026-08-12 起,除部分附件条款另行规定)&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;覆盖包装类型&lt;/strong&gt;:所有投放欧盟市场的包装 —— 主要(销售)包装、次要(成组)包装、运输(三级)包装、服务包装(如外带容器)、复合包装&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;覆盖场景&lt;/strong&gt;:B2C + B2B;在线 + 线下;无论包装材料(塑料 / 纸 / 金属 / 玻璃 / 木材 / 复合材料)&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;不适用&lt;/strong&gt;(典型):医药、医用器械、敏感运输货物等另有专项法规的包装&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2&gt;关键时间线&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;2024-12-16&lt;/strong&gt;:欧盟理事会通过 PPWR&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;2024-12-19&lt;/strong&gt;:签署&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;2025-01-22&lt;/strong&gt;:在 Official Journal 发布&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;2025-02-11&lt;/strong&gt;:&lt;strong&gt;正式生效&lt;/strong&gt; + 18 个月过渡期开始&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;2026-08-12&lt;/strong&gt;:&lt;strong&gt;全面执行&lt;/strong&gt;(默认),各成员国可设最长 +5 年缓冲&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;2028-08-12&lt;/strong&gt;:&lt;strong&gt;欧盟统一材质象形标识&lt;/strong&gt; 强制粘贴,逐步替代各成员国现行的垃圾分类符号&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;2030 / 2038 / 2040&lt;/strong&gt;:分阶段的可回收等级、再生原料配比、重复使用比例硬性目标&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2&gt;物质限制(2026-08-12 起)&lt;/h2&gt;
+&lt;p&gt;
+| 限制 | 阈值 | 适用范围 |
+&lt;br&gt;
+|---|---|---|
+&lt;br&gt;
+| 重金属(铅、镉、汞、六价铬)总和 | ≤ 100 mg/kg | 所有包装 |
+&lt;br&gt;
+| 食品接触包装 — PFAS 单体 | &amp;lt; 25 ppb(靶向分析) | 食品接触材料(FCM) |
+&lt;br&gt;
+| 食品接触包装 — PFAS 总和 | &amp;lt; 250 ppb(靶向分析) | 食品接触材料(FCM) |
+&lt;br&gt;
+| 微塑料 | 受限(具体限值后续二级立法) | 全部 |
+&lt;/p&gt;
+&lt;h2&gt;包装最小化(2026-08-12 起)&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;空置容积&lt;/strong&gt;:包装内部闲置空间 ≤ 包装总容积的 &lt;strong&gt;50%&lt;/strong&gt;(气泡膜 / 泡沫填充 / 缓冲纸屑等全部计入)&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;禁止&amp;quot;过度包装&amp;quot;&lt;/strong&gt;:刻意放大产品视觉体积的双壁夹层、虚假底部、多层加厚非必要设计&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;大箱 + 小产品&lt;/strong&gt; 模式不再符合标准,需要按产品定制裁切&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2&gt;标签与溯源(2026-08-12 起)&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;包装上&lt;strong&gt;必须&lt;/strong&gt;清晰标注:&lt;strong&gt;运营主体完整名称 / 注册商号 / 实体联系地址&lt;/strong&gt;&lt;/li&gt;
+&lt;li&gt;配 &lt;strong&gt;批次编码 / 序列号 / 二维码&lt;/strong&gt; 等可追溯标识&lt;/li&gt;
+&lt;li&gt;二维码需关联完整合规档案信息(为未来&amp;quot;数字产品护照 DPP&amp;quot;做准备)&lt;/li&gt;
+&lt;li&gt;平台与监管机构&lt;strong&gt;同步收紧环保宣传标语&lt;/strong&gt;审核(避免&amp;quot;绿色 / 可降解 / 环保&amp;quot;等无依据宣称)&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2&gt;可回收 / 重复使用 / 再生原料目标(分阶段)&lt;/h2&gt;
+&lt;p&gt;
+| 指标 | 2030 | 2038 | 2040 |
+&lt;br&gt;
+|---|---|---|---|
+&lt;br&gt;
+| 包装可回收等级要求 | A / B / C 三级并存 | 淘汰 C 级,仅 A / B 流通 | — |
+&lt;br&gt;
+| 电商运输包装重复使用占比 | 40% | — | 70% |
+&lt;br&gt;
+| 饮品零售可重复灌装包装 | 10% | — | 40% |
+&lt;br&gt;
+| 塑料包装再生原料最低占比 | 分品类设置 | — | 进一步上调(部分 ≥ 65%) |
+&lt;br&gt;
+| 包装废弃物总量 vs 2018 基线 | -5% | — | -15% |
+&lt;/p&gt;
+&lt;h2&gt;你现在要做什么(6 个月窗口期)&lt;/h2&gt;
+&lt;ol&gt;
+&lt;li&gt;&lt;strong&gt;盘点全部出口欧盟产品的包装数据&lt;/strong&gt;。材质(塑料 / 纸 / 玻璃 / 金属 / 复合)、品类、重量、上游供应商、当前各国 EPR 注册状态 —— 全部建档&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;立即启动 PPWR 框架下的 EPR 注册&lt;/strong&gt;。在任一欧盟成员国投放带包装商品,就要注册该国 EPR 包装类目(注:部分国家如荷兰因法规调整暂停,但仍可先排队);亚马逊九大欧盟核心站点全要,奥地利 / 丹麦 / 卢森堡如已开通跨境分销也需补&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;送检有害物质&lt;/strong&gt;。重金属 + PFAS 都要,食品接触类必检;索取第三方实验室报告存档(合规核验核心凭证)&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;重新设计外包装尺寸&lt;/strong&gt;。按&amp;quot;产品尺寸 + 50% 空置上限&amp;quot;反推包装,定制裁切,减少缓冲物料&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;更新标签 + 准备溯源系统&lt;/strong&gt;。运营主体 + 批次 / 序列号 / 二维码;在 2026-08-12 前完成全部在售 SKU 切换&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;关注 2028 统一象形图&lt;/strong&gt;。从 2028-08-12 起强制粘贴 EU 统一材质标识,意味着 2026-08-12 上线后 2 年内&lt;strong&gt;还要再改一次标签&lt;/strong&gt;&lt;/li&gt;
+&lt;/ol&gt;
+&lt;h2&gt;不处理的潜在影响&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;高概率&lt;/strong&gt;:2026-08-12 后,Amazon EU / TEMU / 速卖通等平台对未完成 PPWR 合规的在售商品&lt;strong&gt;统一下架停售&lt;/strong&gt;(平台已提前通知)&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;可能&lt;/strong&gt;:欧盟海关扣留不合规批次,新货无法入仓&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;可能&lt;/strong&gt;:成员国市场监管机构处罚 + 召回风险&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;明确:本卡片不构成法律意见&lt;/strong&gt;;具体品类(尤其食品 / 医疗 / 电气)可能适用额外规则,具体材质限值需查二级立法&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2&gt;常见问题&lt;/h2&gt;
+&lt;p&gt;
+&lt;strong&gt;Q1:PPWR 和原来的 94/62/EC 包装指令是什么关系?&lt;/strong&gt;
+&lt;br&gt;
+A:PPWR 是&amp;quot;升级版&amp;quot;。&lt;strong&gt;法规&lt;/strong&gt;(Regulation)直接在全境适用,不需要各成员国转法;&lt;strong&gt;指令&lt;/strong&gt;(Directive)需要各国转法。PPWR 自 2026-08-12 起替代 94/62/EC(部分条款除外)。
+&lt;/p&gt;
+&lt;p&gt;
+&lt;strong&gt;Q2:我已经做了德国 LUCID 包装 EPR 注册,还要再做什么?&lt;/strong&gt;
+&lt;br&gt;
+A:LUCID 注册是 &lt;strong&gt;EPR 框架&lt;/strong&gt;下的具体国家注册号,PPWR &lt;strong&gt;也要求 EPR 注册&lt;/strong&gt;,所以 LUCID 这步&lt;strong&gt;不浪费&lt;/strong&gt;。但 PPWR 还&lt;strong&gt;叠加&lt;/strong&gt;了物质限值、最小化、标签、回收等级等要求,这些是 EPR 之外的新工作。
+&lt;/p&gt;
+&lt;p&gt;
+&lt;strong&gt;Q3:卖家在欧洲没有公司,怎么注册?&lt;/strong&gt;
+&lt;br&gt;
+A:可以委托&lt;strong&gt;本土授权代表&lt;/strong&gt;(Authorised Representative)代为承担生产者义务。多数国家法规明确允许,服务市场上有很多合规服务商(万理晴 / SGS / TÜV 等)提供打包服务。
+&lt;/p&gt;
+&lt;p&gt;
+&lt;strong&gt;Q4:我卖二手 / 古董,适用吗?&lt;/strong&gt;
+&lt;br&gt;
+A:和 GPSR 类似,PPWR 对二手商品和&amp;quot;需要维修的二手物品&amp;quot;有部分豁免,但具体看你的产品形态和&amp;quot;投放市场&amp;quot;方式。保险起见咨询合规顾问。
+&lt;/p&gt;
+&lt;p&gt;
+&lt;strong&gt;Q5:亚马逊在 2026-08-12 之前就强制下架不合规商品吗?&lt;/strong&gt;
+&lt;br&gt;
+A:平台已提前通知,具体执行节奏由平台决定。根据 2025-2026 多家媒体报道(亚马逊 / TEMU / 速卖通),&lt;strong&gt;临近 8 月 12 日前 2-3 个月会进入集中审核期&lt;/strong&gt;,&lt;strong&gt;建议 2026-06 之前完成全部合规工作&lt;/strong&gt;。
+&lt;/p&gt;
+&lt;p&gt;
+&lt;strong&gt;Q6:PFAS 限制 25 ppb 怎么测?&lt;/strong&gt;
+&lt;br&gt;
+A:需要通过&lt;strong&gt;靶向 PFAS 分析&lt;/strong&gt;(targeted PFAS analysis),一般送 SGS / TÜV / Intertek 等第三方实验室。聚合物 PFAS(polymer PFAS)不在 25/250 ppb 限制内,但需要单独判定。
+&lt;/p&gt;
+&lt;h2&gt;官方 / 原始来源&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;EUR-Lex Regulation (EU) 2025/40 全文:&lt;a href=&quot;https://eur-lex.europa.eu/eli/reg/2025/40/oj&quot;&gt;https://eur-lex.europa.eu/eli/reg/2025/40/oj&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;European Commission 包装法规概览:&lt;a href=&quot;https://environment.ec.europa.eu/topics/waste-and-recycling/packaging-waste&lt;em&gt;en&quot;&gt;https://environment.ec.europa.eu/topics/waste-and-recycling/packaging-waste&lt;/em&gt;en&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Amazon Seller Central — EPR / Packaging 合规要求(进入合规门户&amp;quot;Account Health&amp;quot;查阅)&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2&gt;核对日期&lt;/h2&gt;
+&lt;p&gt;
+本卡片由编辑团队于 &lt;strong&gt;2026-07-14&lt;/strong&gt; 核对主要事实与 EUR-Lex 链接;法规文本以 EUR-Lex 官方发布版为准。&lt;strong&gt;该领域二级立法在持续出台&lt;/strong&gt;,建议每 60-90 天复核一次。
+&lt;/p&gt;
+&lt;h2&gt;风险提示与免责声明&lt;/h2&gt;
+&lt;p&gt;
+本站是&lt;strong&gt;信息整理和辅助判断工具&lt;/strong&gt;,&lt;strong&gt;不构成法律、税务、认证或专业合规意见&lt;/strong&gt;。任何具体执行请咨询&lt;strong&gt;有欧盟法 / 包装合规资质的律师、合规顾问或认证机构&lt;/strong&gt;。法规与平台规则在持续更新,本卡片信息可能与最新原文存在差异。
+&lt;/p&gt;
+&lt;h2&gt;相关规则&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&quot;/radar/de-lucid-packaging&quot;&gt;德国包装法 LUCID 与 EPR 注册:亚马逊德国站卖家必填&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;/radar/france-epr-triman&quot;&gt;法国 EPR Triman 标识 + 唯一识别符:亚马逊法国站 2022 起强制&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;/radar/eu-gpsr-responsible-person&quot;&gt;欧盟 GPSR 通用产品安全法规 已生效:亚马逊欧洲站卖家必须完成的责任人信息&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2&gt;相关清单&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&quot;/checklists/pre-listing-documents&quot;&gt;产品上架前资料检查清单&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;/checklists/new-seller-basics&quot;&gt;新卖家开店基础资料检查清单&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;/checklists/compliance-notice-48h&quot;&gt;收到平台合规通知后的 48 小时应对清单&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;</content:encoded><category>包装责任</category><category>环保合规</category><category>标签与说明书</category><category>平台合规</category></item><item><title>欧盟 GPSR 通用产品安全法规 已生效:亚马逊欧洲站卖家必须完成的责任人信息</title><link>https://weiread.com/radar/eu-gpsr-responsible-person/</link><guid isPermaLink="true">https://weiread.com/radar/eu-gpsr-responsible-person/</guid><description>2024 年 12 月 13 日起,在 Amazon EU 上架的多数非食品消费类商品必须显示欧盟责任人(Responsible Person)信息。卖家需要确认责任人主体、商品标识与上架资料完整,否则可能下架或限制销售。</description><pubDate>Thu, 15 Jan 2026 00:00:00 GMT</pubDate><content:encoded>&lt;p&gt;&lt;em&gt;2024 年 12 月 13 日起,在 Amazon EU 上架的多数非食品消费类商品必须显示欧盟责任人(Responsible Person)信息。卖家需要确认责任人主体、商品标识与上架资料完整,否则可能下架或限制销售。&lt;/em&gt;&lt;/p&gt;
+&lt;h2&gt;一句话结论&lt;/h2&gt;
+&lt;p&gt;
+如果你在 Amazon EU 卖非食品类消费品,&lt;strong&gt;必须&lt;/strong&gt;在商品详情页和/或包装上显示&lt;strong&gt;欧盟责任人(Responsible Person)&lt;/strong&gt;信息,且你的责任人要在欧盟境内注册或以书面形式接受委托。亚马逊从 2024-12-13 开始对缺失信息的产品下架或限流。
+&lt;/p&gt;
+&lt;h2&gt;适用范围&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;站点&lt;/strong&gt;:Amazon EU 全境(德国、法国、意大利、西班牙、荷兰、瑞典、波兰等);英国(北爱尔兰)协议范围内类似&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;卖家类型&lt;/strong&gt;:自营品牌、贸易商、代销/转售(只要你提供商品或包装)&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;商品/类目&lt;/strong&gt;:非食品类消费品(电器、儿童用品、化妆品、个护、家居、户外等);部分类目另有豁免(药品、食品、饲料等)&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;不适用&lt;/strong&gt;:古董、二手商品、需要维修的二手物品、纯服务等(以法规原文为准)&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2&gt;关键时间线&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;2023-05-10&lt;/strong&gt;:欧盟 GPSR(EU 2023/988)在 Official Journal 公布&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;2023-12-13&lt;/strong&gt;:法规整体进入过渡期&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;2024-12-13&lt;/strong&gt;:&lt;strong&gt;全面适用&lt;/strong&gt; —— 亚马逊对未提供欧盟责任人信息的产品执行限流&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;持续&lt;/strong&gt;:亚马逊对不合规产品保留下架/限流处置权&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2&gt;你现在要做什么&lt;/h2&gt;
+&lt;ol&gt;
+&lt;li&gt;&lt;strong&gt;确认你的商品类目是否在 GPSR 覆盖范围内&lt;/strong&gt;。登录 Amazon Seller Central → Compliance 页面,定位&amp;quot;EU Responsible Person&amp;quot;。&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;指定一个欧盟责任人&lt;/strong&gt;。可以是你在欧盟的关联公司、你的进口商、或者聘请第三方&amp;quot;Authorised Representative&amp;quot;服务(例如 ProductIP、Eurofins 提供的服务)。&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;在商品详情页 / 包装上添加责任人信息&lt;/strong&gt;。Amazon 后台需要填写并验证;实体包装上需要可识别地印刷(姓名、邮政地址、电子邮箱),消费者可联系。&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;检查每一条 listing&lt;/strong&gt;。批量在后台下载 report,筛选尚未填 EU Responsible Person 字段的 ASIN,优先处理高销量 listing。&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;保留证明文件&lt;/strong&gt;。责任人书面协议、注册证明、追溯信息等建议保存 5 年以上,以备平台或市场监管机构核查。&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;订阅本雷达&lt;/strong&gt;,关注 GPSR 在 CE 标识、说明书语种、儿童商品特殊条款上的进一步执法动作。&lt;/li&gt;
+&lt;/ol&gt;
+&lt;h2&gt;不处理的潜在影响&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;可能&lt;/strong&gt;:商品在 Amazon EU 被下架,Listing 不可见,影响正常销售&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;可能&lt;/strong&gt;:在欧盟海关清关时受阻,新批次无法入仓&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;可能&lt;/strong&gt;:消费者投诉时,被认定为&amp;quot;无明确责任人&amp;quot;,处罚或召回风险升高&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;明确:本卡片不构成法律意见&lt;/strong&gt;;具体品类(尤其儿童、医疗、电气)可能适用额外规则&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2&gt;常见问题&lt;/h2&gt;
+&lt;p&gt;
+&lt;strong&gt;Q1:我已经用 CE 标志 / 欧代(EC-REP)信息,是不是就够了?&lt;/strong&gt;
+&lt;br&gt;
+A:不一定。GPSR 要求的&amp;quot;Responsible Person&amp;quot;覆盖范围比传统欧代更广,且对主体在欧盟、邮政地址、联系方式有明确要求。建议重新确认。
+&lt;/p&gt;
+&lt;p&gt;
+&lt;strong&gt;Q2:我用亚马逊物流(FBA),亚马逊是不是自动算责任人?&lt;/strong&gt;
+&lt;br&gt;
+A:不是。FBA 只负责仓储履约,法规意义上的&amp;quot;责任人&amp;quot;必须由卖家自行指定并提供证明。亚马逊只负责在前台显示你填写的信息。
+&lt;/p&gt;
+&lt;p&gt;
+&lt;strong&gt;Q3:小批量试卖几百件,需要做吗?&lt;/strong&gt;
+&lt;br&gt;
+A:法规对数量没有豁免,只要在 EU 销售非食品消费品就要遵守。一次性寄样到欧盟不算销售,规则不同。
+&lt;/p&gt;
+&lt;p&gt;
+&lt;strong&gt;Q4:能直接抄别人的责任人信息吗?&lt;/strong&gt;
+&lt;br&gt;
+A:强烈不建议。责任人需要书面接受委托,如果对方撤销授权或根本不存在,你的产品会瞬间处于无责任人状态。
+&lt;/p&gt;
+&lt;p&gt;
+&lt;strong&gt;Q5:英国站需要吗?&lt;/strong&gt;
+&lt;br&gt;
+A:英国(GB)适用 UKCA / UK Responsible Person 框架,与 GPSR 平行但独立。本卡只覆盖 EU,GB 规则请另行确认。
+&lt;/p&gt;
+&lt;h2&gt;官方 / 原始来源&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Amazon Seller Central — EU Responsible Person 要求:https://sellercentral.amazon.eu/help/hub/reference/G6C74FKQ4ZBX7BGB&lt;/li&gt;
+&lt;li&gt;EUR-Lex Regulation (EU) 2023/988 全文:https://eur-lex.europa.eu/eli/reg/2023/988/oj&lt;/li&gt;
+&lt;li&gt;European Commission GPSR 概览:https://single-market-economy.ec.europa.eu/single-market/ce-marking_en&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2&gt;核对日期&lt;/h2&gt;
+&lt;p&gt;
+本卡片由编辑团队于 &lt;strong&gt;2026-01-15&lt;/strong&gt; 核对主要事实与链接;法规链接在 EUR-Lex 上为权威发布版。请以原始来源为准。
+&lt;/p&gt;
+&lt;h2&gt;风险提示与免责声明&lt;/h2&gt;
+&lt;p&gt;
+本站是&lt;strong&gt;信息整理和辅助判断工具&lt;/strong&gt;,不构成法律、税务、认证或专业合规意见。任何具体执行请咨询&lt;strong&gt;有欧盟法 / 产品安全资质的律师、合规顾问或认证机构&lt;/strong&gt;。法规与平台规则在持续更新,本卡片信息可能与最新原文存在差异。
+&lt;/p&gt;
+&lt;h2&gt;相关规则&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&quot;/radar/eu-child-product-warnings&quot;&gt;亚马逊欧盟站儿童商品特定年龄警告规则(2024 强化版)&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;/radar/eu-eprel-energy-label&quot;&gt;欧盟能效标签 EPREL 数据库的更新要求&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2&gt;相关清单&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&quot;/checklists/pre-listing-documents&quot;&gt;产品上架前资料检查清单&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;/checklists/compliance-notice-48h&quot;&gt;收到平台合规通知后的 48 小时应对清单&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;</content:encoded><category>产品安全</category><category>标签与说明书</category><category>平台合规</category></item><item><title>欧盟儿童商品特定年龄警告规则(2024 强化版)</title><link>https://weiread.com/radar/eu-child-product-warnings/</link><guid isPermaLink="true">https://weiread.com/radar/eu-child-product-warnings/</guid><description>Amazon EU 对玩具、儿童用品强制要求 Age Warning / Safety Warning,且需在列表、详情页、包装、说明书多语种呈现;2024 年强化对未明确年龄分级商品的限流。</description><pubDate>Mon, 12 Jan 2026 00:00:00 GMT</pubDate><content:encoded>&lt;p&gt;&lt;em&gt;Amazon EU 对玩具、儿童用品强制要求 Age Warning / Safety Warning,且需在列表、详情页、包装、说明书多语种呈现;2024 年强化对未明确年龄分级商品的限流。&lt;/em&gt;&lt;/p&gt;
+&lt;h2&gt;一句话结论&lt;/h2&gt;
+&lt;p&gt;
+在 Amazon EU 销售&lt;strong&gt;玩具、儿童护理品、儿童家具、化妆品(3 岁以下接触)&lt;/strong&gt;等商品,必须遵守 EU Toy Safety Directive + 各国实施法,亚马逊会强制要求填写 Age Warning / Safety Warning 信息,2024 年起对缺失 ASIN 限流。
+&lt;/p&gt;
+&lt;h2&gt;适用范围&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;站点&lt;/strong&gt;:Amazon EU(DE/FR/IT/ES/NL/SE/PL 等)&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;卖家类型&lt;/strong&gt;:任何销售儿童相关商品的品牌方、贸易商&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;商品/类目&lt;/strong&gt;:玩具(0-14 岁)、儿童家具、儿童护理品、奶瓶、婴儿化妆品等&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;不适用&lt;/strong&gt;:面向 14 岁以上的产品(但有边界)&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2&gt;关键时间线&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;2009-06-30&lt;/strong&gt;:Toy Safety Directive 2009/48/EC 公布&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;2011-07-20&lt;/strong&gt;:玩具安全指令主要条款适用&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;2024-04-01&lt;/strong&gt;:亚马逊对儿童商品&amp;quot;年龄警告&amp;quot;字段的强制校验升级&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;持续&lt;/strong&gt;:MSAs(欧盟各国市场监督机构)对玩具安全进行抽查&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2&gt;你现在要做什么&lt;/h2&gt;
+&lt;ol&gt;
+&lt;li&gt;&lt;strong&gt;确认产品是否属于&amp;quot;玩具&amp;quot;&lt;/strong&gt; —— 法律定义比平台宽,即使是装饰品或礼品,只要合理预期会被 14 岁以下儿童使用,就适用。&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;进行 EN 71 系列测试&lt;/strong&gt;(EN 71-1 物理机械、EN 71-2 阻燃、EN 71-3 化学迁移等);保留测试报告至少 5 年。&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;CE 标志 + EU 责任人&lt;/strong&gt;:与 GPSR 一致,需在欧盟有责任人。&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Age Warning 字段&lt;/strong&gt;:Amazon 后台 &amp;quot;Age Recommendation&amp;quot; / &amp;quot;Safety Warning&amp;quot; 字段按真实年龄填。&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;说明书与包装多语种&lt;/strong&gt;:至少含销售国官方语言(德/法/意/西等);警告语必须清晰、不可移除。&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;持续关注 CEN 协调标准修订&lt;/strong&gt;:玩具相关标准在持续更新。&lt;/li&gt;
+&lt;/ol&gt;
+&lt;h2&gt;不处理的潜在影响&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;可能&lt;/strong&gt;:Listing 下架&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;可能&lt;/strong&gt;:海关抽检不通过,批次销毁&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;可能&lt;/strong&gt;:消费者事故引发的产品责任诉讼&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;可能&lt;/strong&gt;:MSAs 罚款&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;明确:本卡片不构成法律意见&lt;/strong&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2&gt;常见问题&lt;/h2&gt;
+&lt;p&gt;
+&lt;strong&gt;Q1:非玩具类但儿童可能使用(例如文具)需要 Age Warning 吗?&lt;/strong&gt;
+&lt;br&gt;
+A:看具体产品。亚马逊后台会要求部分&amp;quot;非玩具但儿童相关&amp;quot;商品也填 Age Recommendation,具体按平台指示。
+&lt;/p&gt;
+&lt;p&gt;
+&lt;strong&gt;Q2:测试报告谁能出?&lt;/strong&gt;
+&lt;br&gt;
+A:欧盟认可的第三方实验室(ISO 17025);不接受厂内自测。
+&lt;/p&gt;
+&lt;p&gt;
+&lt;strong&gt;Q3:3 岁以下儿童玩具有什么特别要求?&lt;/strong&gt;
+&lt;br&gt;
+A:有更严格的小零件、化学迁移、阻燃要求,EN 71 系列有更细分条款。
+&lt;/p&gt;
+&lt;h2&gt;官方 / 原始来源&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Toy Safety Directive 2009/48/EC:https://eur-lex.europa.eu/eli/dir/2009/48/oj&lt;/li&gt;
+&lt;li&gt;European Commission Toy Safety:https://single-market-economy.ec.europa.eu/single-market/ce-marking/toys_en&lt;/li&gt;
+&lt;li&gt;Amazon EU 玩具合规中心(登录后):https://sellercentral.amazon.eu&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2&gt;核对日期&lt;/h2&gt;
+&lt;p&gt;
+本卡片由编辑团队于 &lt;strong&gt;2026-01-12&lt;/strong&gt; 核对主要事实与链接;具体标准以最新 EN 71 版本为准。
+&lt;/p&gt;
+&lt;h2&gt;风险提示与免责声明&lt;/h2&gt;
+&lt;p&gt;
+本站是&lt;strong&gt;信息整理和辅助判断工具&lt;/strong&gt;,不构成法律、税务、认证或专业合规意见。儿童商品法规与产品责任法密切挂钩,具体执行请咨询&lt;strong&gt;欧盟产品安全专业律师 / 认证机构&lt;/strong&gt;。
+&lt;/p&gt;
+&lt;h2&gt;相关规则&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&quot;/radar/eu-gpsr-responsible-person&quot;&gt;欧盟 GPSR 通用产品安全法规 已生效:亚马逊欧洲站卖家必须完成的责任人信息&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2&gt;相关清单&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&quot;/checklists/pre-listing-documents&quot;&gt;产品上架前资料检查清单&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;/checklists/compliance-notice-48h&quot;&gt;收到平台合规通知后的 48 小时应对清单&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;</content:encoded><category>产品安全</category><category>儿童与玩具</category><category>标签与说明书</category></item><item><title>德国包装法 LUCID 与 EPR 注册:亚马逊德国站卖家必填</title><link>https://weiread.com/radar/de-lucid-packaging/</link><guid isPermaLink="true">https://weiread.com/radar/de-lucid-packaging/</guid><description>德国所有向德国终端消费者销售包装的卖家,必须在 LUCID 包装登记册注册并加入一个回收系统(dual system);亚马逊德国站从 2022 年起强制要求填写 LUCID 编号,未填会被自动下架。</description><pubDate>Sat, 10 Jan 2026 00:00:00 GMT</pubDate><content:encoded>&lt;p&gt;&lt;em&gt;德国所有向德国终端消费者销售包装的卖家,必须在 LUCID 包装登记册注册并加入一个回收系统(dual system);亚马逊德国站从 2022 年起强制要求填写 LUCID 编号,未填会被自动下架。&lt;/em&gt;&lt;/p&gt;
+&lt;h2&gt;一句话结论&lt;/h2&gt;
+&lt;p&gt;
+在 Amazon DE 销售商品的卖家,几乎全部需要&lt;strong&gt;在 LUCID 注册&lt;/strong&gt;(Stiftung Zentrale Stelle Verpackungsregister),并加入一个&lt;strong&gt;回收系统(Duales System,例如 Interseroh、Grüner Punkt、Reclay 等)&lt;/strong&gt;;没有 LUCID 编号和系统证明,Amazon DE 会直接下架你的 Listing。
+&lt;/p&gt;
+&lt;h2&gt;适用范围&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;站点&lt;/strong&gt;:Amazon DE(德国站)&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;卖家类型&lt;/strong&gt;:任何把带包装商品发往德国终端消费者的卖家,包括跨境直邮、FBA 入仓、海外仓发货&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;商品/类目&lt;/strong&gt;:几乎所有实体商品(消费品、电子、家居、个护等);B2B、医疗器械、特殊豁免品类有例外&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;不适用&lt;/strong&gt;:完全数字商品 / 服务(无实体包装)&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2&gt;关键时间线&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;2019-01-01&lt;/strong&gt;:Verpackungsgesetz(德国包装法)生效&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;2022-07-01&lt;/strong&gt;:&lt;strong&gt;亚马逊德国站强制要求&lt;/strong&gt;所有卖家在后台提交 LUCID 编号;无编号的 Listing 开始被自动暂停&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;2023-2024&lt;/strong&gt;:德国监管机构(Stiftung Zentrale Stelle)对未合规卖家展开&lt;strong&gt;大规模执法&lt;/strong&gt;,最高罚款可达 &lt;strong&gt;20 万欧元&lt;/strong&gt;&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;持续&lt;/strong&gt;:亚马逊对 LUCID 状态定期复核,失效或失效编号会被自动下架&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2&gt;你现在要做什么&lt;/h2&gt;
+&lt;ol&gt;
+&lt;li&gt;&lt;strong&gt;访问 LUCID 网站并注册&lt;/strong&gt;:&lt;code&gt;verpackungsregister.org&lt;/code&gt;,公司主体需提供德国 / 欧盟税号(EU VAT,或 ZwSt-VAT-Nr.);个人卖家需按平台说明走个人流程。&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;加入一个回收系统(Duales System)&lt;/strong&gt;。常见选择:Interseroh、Grüner Punkt(DSD)、Reclay、Landbell、Zentek 等,年费几十到几百欧元不等(按重量 / 包装种类报价)。&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;把 LUCID 编号填入 Amazon DE 后台&lt;/strong&gt;:Seller Central → Settings → Compliance → LUCID Number。建议&lt;strong&gt;保存系统参与证书(System Participation Certificate)&lt;/strong&gt;。&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;同步其他 EPR 编号&lt;/strong&gt;:除包装外,德国还可能涉及电气电子(Stiftung EAR)、电池(UBA)、纺织品、轮胎等;本卡只覆盖包装部分。&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;每张 listing 检查包装重量/材质&lt;/strong&gt;的&amp;quot;卷标对应表&amp;quot;(Verpackungsgesetz Anlage);重量偏差会触发平台审核。&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;设置年度复核&lt;/strong&gt;:LUCID 编号和系统参与合同通常每年续费,过期前 30 天提醒续约。&lt;/li&gt;
+&lt;/ol&gt;
+&lt;h2&gt;不处理的潜在影响&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;可能&lt;/strong&gt;:Amazon DE 全部 Listing 被暂停(全店级),影响最大&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;可能&lt;/strong&gt;:德国监管机构处以&lt;strong&gt;最高 20 万欧元罚款&lt;/strong&gt;,跨境卖家亦可被追责&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;可能&lt;/strong&gt;:同店其它合规字段(EAR 电气、电池、包装)被平台并案审查&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;明确:本卡片不构成法律意见&lt;/strong&gt;;具体类目(尤其电气电子)可能适用额外规则&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2&gt;常见问题&lt;/h2&gt;
+&lt;p&gt;
+&lt;strong&gt;Q1:我只用 FBA 是不是亚马逊管?&lt;/strong&gt;
+&lt;br&gt;
+A:不是。FBA 只是履约服务,法律责任在你(发货人 / 制造商 / 首次在德销售者)。亚马逊只是把 LUCID 编号作为开店资格字段强制收集。
+&lt;/p&gt;
+&lt;p&gt;
+&lt;strong&gt;Q2:跨境直邮小包,还需要 LUCID 吗?&lt;/strong&gt;
+&lt;br&gt;
+A:需要。任何把带包装商品引入德国市场的行为都触发 VerpackG 责任,跨境直邮不豁免。
+&lt;/p&gt;
+&lt;p&gt;
+&lt;strong&gt;Q3:我已经有 EU VAT,LUCID 是不是自动?&lt;/strong&gt;
+&lt;br&gt;
+A:不是。LUCID 是独立登记册,VAT 不等于 LUCID。两者都要单独申请。
+&lt;/p&gt;
+&lt;p&gt;
+&lt;strong&gt;Q4:用代发 / 一件代发呢?&lt;/strong&gt;
+&lt;br&gt;
+A:看你是否&amp;quot;首次在德销售&amp;quot;。如果商品由第三方从中国直接发,代发方通常承担 VerpackG 责任;但&lt;strong&gt;亚马逊平台仍要求 ASIN 后台有 LUCID 编号&lt;/strong&gt;,所以你还是需要至少注册一个 LUCID 主体。
+&lt;/p&gt;
+&lt;p&gt;
+&lt;strong&gt;Q5:法国 EPR 编号和德国 LUCID 编号一样吗?&lt;/strong&gt;
+&lt;br&gt;
+A:不一样。法国有自己的 EPR 注册机构(Citeo、Syderep 等),号码独立申请,平台分别要求。本卡只覆盖德国。
+&lt;/p&gt;
+&lt;h2&gt;官方 / 原始来源&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;德国包装登记册 LUCID 官方平台:https://www.verpackungsregister.org/en&lt;/li&gt;
+&lt;li&gt;亚马逊德国站合规说明:https://sellercentral.amazon.de/help/hub/reference/G202124660&lt;/li&gt;
+&lt;li&gt;德国 Verpackungsgesetz 原文(BMUV):https://www.bmuv.de/en/law/packaging-act&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2&gt;核对日期&lt;/h2&gt;
+&lt;p&gt;
+本卡片由编辑团队于 &lt;strong&gt;2026-01-10&lt;/strong&gt; 核对主要事实与链接。&lt;strong&gt;金额、罚款、平台要求以原始来源为准。&lt;/strong&gt;
+&lt;/p&gt;
+&lt;h2&gt;风险提示与免责声明&lt;/h2&gt;
+&lt;p&gt;
+本站是&lt;strong&gt;信息整理和辅助判断工具&lt;/strong&gt;,不构成法律、税务、认证或专业合规意见。德国包装法有完整的德国法院判例库和 ZSVR 执法案例,具体执行请咨询&lt;strong&gt;德国本地律师或合规顾问&lt;/strong&gt;。
+&lt;/p&gt;
+&lt;h2&gt;相关规则&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&quot;/radar/france-epr-triman&quot;&gt;法国 EPR 包装与纺织品回收编号要求(2024 强化版)&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;/radar/eu-gpsr-responsible-person&quot;&gt;欧盟 GPSR 通用产品安全法规 已生效:亚马逊欧洲站卖家必须完成的责任人信息&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2&gt;相关清单&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&quot;/checklists/new-seller-basics&quot;&gt;亚马逊欧洲站新卖家基础资料检查清单&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;/checklists/pre-listing-documents&quot;&gt;产品上架前资料检查清单&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;</content:encoded><category>包装责任</category><category>环保合规</category><category>平台合规</category></item><item><title>亚马逊 IOSS 欧盟远程销售增值税申报:€150 以下小包必备</title><link>https://weiread.com/radar/eu-ioss-vat/</link><guid isPermaLink="true">https://weiread.com/radar/eu-ioss-vat/</guid><description>从欧盟以外发往欧盟个人消费者、货值 ≤ €150 的小包,需在 IOSS(Import One-Stop Shop)进行增值税申报;IOSS 让消费者在结账时已付 VAT、清关更顺;Amazon EU 已在卖家后台集成 IOSS。</description><pubDate>Fri, 09 Jan 2026 00:00:00 GMT</pubDate><content:encoded>&lt;p&gt;&lt;em&gt;从欧盟以外发往欧盟个人消费者、货值 ≤ €150 的小包,需在 IOSS(Import One-Stop Shop)进行增值税申报;IOSS 让消费者在结账时已付 VAT、清关更顺;Amazon EU 已在卖家后台集成 IOSS。&lt;/em&gt;&lt;/p&gt;
+&lt;h2&gt;一句话结论&lt;/h2&gt;
+&lt;p&gt;
+如果你从中国 / 非欧盟国家向欧盟消费者直邮 ≤ €150 的包裹,使用 IOSS 申报 VAT 可以&lt;strong&gt;避免消费者在清关时被二次收税和延误&lt;/strong&gt;;Amazon EU 已对非 EU 卖家在后台集成 IOSS,未注册 IOSS 的非 EU 卖家通常无法享受 B2C 远程销售特殊规则。
+&lt;/p&gt;
+&lt;h2&gt;适用范围&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;站点&lt;/strong&gt;:任何欧盟国家&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;卖家类型&lt;/strong&gt;:从欧盟以外发往欧盟个人消费者的卖家&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;商品/类目&lt;/strong&gt;:几乎所有非违禁品,货值 ≤ €150&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;不适用&lt;/strong&gt;:货值 &amp;gt; €150 的 B2C 进口(走正常清关 VAT);B2B(走 reverse charge)&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2&gt;关键时间线&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;2021-07-01&lt;/strong&gt;:IOSS 制度开始实施&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;2021-07-01 起&lt;/strong&gt;:Amazon EU 对非欧盟卖家逐步集成 IOSS&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;2024-2025&lt;/strong&gt;:欧盟海关、税务机构持续抽查未合规跨境直邮&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;持续&lt;/strong&gt;:欧盟 VAT 税率更新时(各成员国 1 月 1 日左右),需同步更新&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2&gt;你现在要做什么&lt;/h2&gt;
+&lt;ol&gt;
+&lt;li&gt;&lt;strong&gt;评估你的发货模式&lt;/strong&gt;:是否跨境直邮?是否单包 ≤ €150?&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;非欧盟主体注册 IOSS&lt;/strong&gt;:通过中介(IOSS Intermediary,如 Avalara、TaxJar EU、Vertex)或自行在任一欧盟国家税务局注册(需欧盟 VAT 号)。&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Amazon EU 后台填写 IOSS 编号&lt;/strong&gt;:Marketplace integrator 自动处理的部分,检查你的 IOSS 状态。&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;VAT 税率按目的国&lt;/strong&gt;:VAT 率按买家收货国(德国 19%、法国 20% 等),每季度申报一次。&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;记录保存&lt;/strong&gt;:每笔跨境销售保留 10 年,以备欧盟成员国税务局审查。&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;物流商协同&lt;/strong&gt;:确保物流面单或 CN22/CN23 上有 IOSS 编号(没有的话清关慢)。&lt;/li&gt;
+&lt;/ol&gt;
+&lt;h2&gt;不处理的潜在影响&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;可能&lt;/strong&gt;:消费者在清关时被要求补 VAT + 处理费&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;可能&lt;/strong&gt;:物流商对未提供 IOSS 的包裹直接退回&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;可能&lt;/strong&gt;:欧盟税务局处以&lt;strong&gt;未申报 VAT 罚款 + 滞纳金&lt;/strong&gt;&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;可能&lt;/strong&gt;:Amazon EU 暂停你的卖家账户(多国)&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;明确:本卡片不构成法律意见&lt;/strong&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2&gt;常见问题&lt;/h2&gt;
+&lt;p&gt;
+&lt;strong&gt;Q1:我用 FBA,还需要 IOSS 吗?&lt;/strong&gt;
+&lt;br&gt;
+A:看你的库存所在地。如果你的库存放在欧盟境内(FBA / 海外仓),IOSS 不适用,改走欧盟境内 VAT;如果库存在中国,跨境入欧盟仓(海运 / 空运),入仓环节由进口商或 Amazon 负责,VAT 在进口时已缴。
+&lt;/p&gt;
+&lt;p&gt;
+&lt;strong&gt;Q2:消费者拒付 VAT 怎么办?&lt;/strong&gt;
+&lt;br&gt;
+A:IOSS 的核心是&lt;strong&gt;消费者已在结账时支付 VAT&lt;/strong&gt;;物流商不再二次收取。如果使用 IOSS 但仍被收,大概率是物流商未识别 IOSS 编号。
+&lt;/p&gt;
+&lt;p&gt;
+&lt;strong&gt;Q3:小包超过 €150 怎么办?&lt;/strong&gt;
+&lt;br&gt;
+A:走标准进口清关,缴纳进口 VAT(通常 19-25%),可走 DDP 让消费者先付。
+&lt;/p&gt;
+&lt;p&gt;
+&lt;strong&gt;Q4:IOSS 申报频率?&lt;/strong&gt;
+&lt;br&gt;
+A:月度向中介或欧盟成员国税务局申报 VAT,季度结算。
+&lt;/p&gt;
+&lt;h2&gt;官方 / 原始来源&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;欧盟 IOSS 官方:https://ec.europa.eu/taxation&lt;em&gt;customs/business/vat/ioss&lt;/em&gt;en&lt;/li&gt;
+&lt;li&gt;Amazon EU VAT 指南:https://sellercentral.amazon.eu/help/hub/reference/GM8M2G5Y9Q4F8NZX&lt;/li&gt;
+&lt;li&gt;各成员国 VAT 税率(欧盟委员会):https://ec.europa.eu/taxation&lt;em&gt;customs/business/vat/vat-rules/vat-rates&lt;/em&gt;en&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2&gt;核对日期&lt;/h2&gt;
+&lt;p&gt;
+本卡片由编辑团队于 &lt;strong&gt;2026-01-09&lt;/strong&gt; 核对主要事实与链接;具体 VAT 税率与中介服务以各国税务局最新公告为准。
+&lt;/p&gt;
+&lt;h2&gt;风险提示与免责声明&lt;/h2&gt;
+&lt;p&gt;
+本站是&lt;strong&gt;信息整理和辅助判断工具&lt;/strong&gt;,不构成法律、税务、认证或专业合规意见。税务问题请咨询&lt;strong&gt;有欧盟 VAT 申报资质的税务师 / 中介机构&lt;/strong&gt;。
+&lt;/p&gt;
+&lt;h2&gt;相关规则&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&quot;/radar/de-lucid-packaging&quot;&gt;德国包装法 LUCID 与 EPR 注册:亚马逊德国站卖家必填&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2&gt;相关清单&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&quot;/checklists/new-seller-basics&quot;&gt;亚马逊欧洲站新卖家基础资料检查清单&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;</content:encoded><category>税务</category><category>跨境物流</category><category>平台合规</category></item><item><title>法国 EPR Triman 标识 + 唯一识别符:亚马逊法国站 2022 起强制</title><link>https://weiread.com/radar/france-epr-triman/</link><guid isPermaLink="true">https://weiread.com/radar/france-epr-triman/</guid><description>法国要求在售商品 / 包装上印 Triman 标识 + 唯一识别符(可以理解为 EAN-like 的回收标记),亚马逊法国站从 2022 年起强制要求卖家提供 EPR 编号,否则 FBA 库存会逐步停运。</description><pubDate>Thu, 08 Jan 2026 00:00:00 GMT</pubDate><content:encoded>&lt;p&gt;&lt;em&gt;法国要求在售商品 / 包装上印 Triman 标识 + 唯一识别符(可以理解为 EAN-like 的回收标记),亚马逊法国站从 2022 年起强制要求卖家提供 EPR 编号,否则 FBA 库存会逐步停运。&lt;/em&gt;&lt;/p&gt;
+&lt;h2&gt;一句话结论&lt;/h2&gt;
+&lt;p&gt;
+法国 EPR 涉及&lt;strong&gt;多个回收体系&lt;/strong&gt;:包装(Citeo、Syderep 等)、电器(生态系统如 Ecologic)、电池、纺织品、家具、轮胎、纸张等。亚马逊法国站要求所有相关类目卖家&lt;strong&gt;必须登记并提供 EPR 编号&lt;/strong&gt;,否则将被限制 FBA 入仓 / 销售。
+&lt;/p&gt;
+&lt;h2&gt;适用范围&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;站点&lt;/strong&gt;:Amazon FR(法国站)&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;卖家类型&lt;/strong&gt;:任何把受 EPR 监管商品销往法国的卖家&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;类目覆盖&lt;/strong&gt;:包装、电气电子、电池、纺织品、家具、轮胎、纸张、化学品、印刷品(各对应不同组织)&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;不适用&lt;/strong&gt;:完全虚拟商品&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2&gt;关键时间线&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;2022-01-01&lt;/strong&gt;:法国 Anti-Waste Law(AGEC)主要条款生效&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;2022 起&lt;/strong&gt;:Amazon FR 在后台强制要求 EPR 编号(类目不同,要求时间不同)&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;2024-2025&lt;/strong&gt;:平台对未填写 EPR 编号的卖家,持续进行&lt;strong&gt;库存停运 / Listing 限制&lt;/strong&gt;操作&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;持续&lt;/strong&gt;:ADEME / Citeo 等机构对违规进行罚款风险&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2&gt;你现在要做什么&lt;/h2&gt;
+&lt;ol&gt;
+&lt;li&gt;&lt;strong&gt;判断你的商品属于哪几类 EPR&lt;/strong&gt;(包装、电气、电池、纺织、家具、轮胎、纸张);同一商品可能触发多项。&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;到对应机构注册&lt;/strong&gt;:包装 → Citeo;电气 → Ecologic / Screlec 等;电池 → Screlec / Corepile;纺织 → Refashion。每类需要单独申请。&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;把 EPR 编号填入 Amazon FR 后台&lt;/strong&gt;。各 EPR 类目有独立字段,例如 &amp;quot;EPR Packaging&amp;quot;、&amp;quot;EPR WEEE&amp;quot;、&amp;quot;EPR Battery&amp;quot;。&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;包装与说明书添加 Triman 标识 + 唯一识别符&lt;/strong&gt;:Triman 标识按 ADEME 指南排版;唯一识别符由注册机构提供。&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;法语翻译&lt;/strong&gt;:包装或说明必须&lt;strong&gt;有法语版本&lt;/strong&gt;,Triman 与回收说明要在法语文案内。&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;跨平台同步&lt;/strong&gt;:Cdiscount、Fnac 等其他法国平台也强制 EPR,不要只在 Amazon 上做。&lt;/li&gt;
+&lt;/ol&gt;
+&lt;h2&gt;不处理的潜在影响&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;可能&lt;/strong&gt;:Amazon FR Listing 限流 / FBA 库存停运&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;可能&lt;/strong&gt;:ADEME / Citeo 进行合规审计,最高罚款可达&lt;strong&gt;数万欧元&lt;/strong&gt;&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;可能&lt;/strong&gt;:消费者诉讼风险(&amp;quot;信息告知不充分&amp;quot;)&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;明确:本卡片不构成法律意见&lt;/strong&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2&gt;常见问题&lt;/h2&gt;
+&lt;p&gt;
+&lt;strong&gt;Q1:Triman 标识必须印在包装上吗?&lt;/strong&gt;
+&lt;br&gt;
+A:是的。AGEC 实施后,Triman 标识 + 唯一识别符需印刷在产品或包装上(某些类目可电子化告知,但有条件)。
+&lt;/p&gt;
+&lt;p&gt;
+&lt;strong&gt;Q2:我产品类别多,需要每个都申请吗?&lt;/strong&gt;
+&lt;br&gt;
+A:是的。每个触发 EPR 的类目必须单独注册,亚马逊每个类目字段也独立。
+&lt;/p&gt;
+&lt;p&gt;
+&lt;strong&gt;Q3:EPR 编号和法国 EPR 税(SIREN)是一回事吗?&lt;/strong&gt;
+&lt;br&gt;
+A:不是。EPR 编号由回收组织发放,证明你已加入回收体系;SIREN 是公司识别号,两者独立但可能都在合规页面用上。
+&lt;/p&gt;
+&lt;p&gt;
+&lt;strong&gt;Q4:只有 FBA 卖家需要 EPR 吗?&lt;/strong&gt;
+&lt;br&gt;
+A:FBM 也需要,只要在 Amazon FR 卖就触发要求,亚马逊对所有卖家统一强制。
+&lt;/p&gt;
+&lt;h2&gt;官方 / 原始来源&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Citeo 官方:https://www.citeo.com&lt;/li&gt;
+&lt;li&gt;ADEME(法国环境署):https://www.ademe.fr&lt;/li&gt;
+&lt;li&gt;Amazon FR EPR 帮助:https://sellercentral.amazon.fr/help/hub/reference/GF4F7RX2B8K4F2QD&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2&gt;核对日期&lt;/h2&gt;
+&lt;p&gt;
+本卡片由编辑团队于 &lt;strong&gt;2026-01-08&lt;/strong&gt; 核对主要事实与链接;具体类目的 EPR 体系以注册机构最新公告为准。
+&lt;/p&gt;
+&lt;h2&gt;风险提示与免责声明&lt;/h2&gt;
+&lt;p&gt;
+本站是&lt;strong&gt;信息整理和辅助判断工具&lt;/strong&gt;,不构成法律、税务、认证或专业合规意见。AGEC 实施细节在持续调整,具体执行请咨询&lt;strong&gt;法国本地合规顾问&lt;/strong&gt;。
+&lt;/p&gt;
+&lt;h2&gt;相关规则&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&quot;/radar/de-lucid-packaging&quot;&gt;德国包装法 LUCID 与 EPR 注册:亚马逊德国站卖家必填&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;/radar/eu-gpsr-responsible-person&quot;&gt;欧盟 GPSR 通用产品安全法规 已生效:亚马逊欧洲站卖家必须完成的责任人信息&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2&gt;相关清单&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&quot;/checklists/pre-listing-documents&quot;&gt;产品上架前资料检查清单&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;</content:encoded><category>包装责任</category><category>环保合规</category><category>标签与说明书</category></item><item><title>欧盟能效标签 EPREL 数据库:亚马逊欧洲站电气电子卖家 2024 持续强校验</title><link>https://weiread.com/radar/eu-eprel-energy-label/</link><guid isPermaLink="true">https://weiread.com/radar/eu-eprel-energy-label/</guid><description>欧盟在 2017/1369 框架下,要求电气电子类商品(白电、灯具、电视、吸尘器等)通过 EPREL 数据库登记能效标签信息;Amazon EU 会对无 EPREL 数据的产品下架或限流。</description><pubDate>Mon, 05 Jan 2026 00:00:00 GMT</pubDate><content:encoded>&lt;p&gt;&lt;em&gt;欧盟在 2017/1369 框架下,要求电气电子类商品(白电、灯具、电视、吸尘器等)通过 EPREL 数据库登记能效标签信息;Amazon EU 会对无 EPREL 数据的产品下架或限流。&lt;/em&gt;&lt;/p&gt;
+&lt;h2&gt;一句话结论&lt;/h2&gt;
+&lt;p&gt;
+如果你在 Amazon EU 卖受能效标签法规覆盖的电气电子产品(白电、灯具、电子显示屏、吸尘器、烤箱等),需要在 &lt;strong&gt;EPREL 数据库&lt;/strong&gt;登记商品能效数据,并把 EPREL 标签贴到产品 / 包装 / 详情页。亚马逊 2024 年开始对未登记的 ASIN 进行下架或限流。
+&lt;/p&gt;
+&lt;h2&gt;适用范围&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;站点&lt;/strong&gt;:Amazon EU 全境&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;卖家类型&lt;/strong&gt;:在欧盟制造 / 进口 / 销售受覆盖电气电子产品的品牌方&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;商品/类目&lt;/strong&gt;:冰箱、洗衣机、洗碗机、电视、显示器、灯具、烤箱、吸尘器、空调、热水器等(具体清单见法规附录)&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;不适用&lt;/strong&gt;:二手商品(在某些情况下)、非电气设备、纯软件&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2&gt;关键时间线&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;2017-08-01&lt;/strong&gt;:欧盟 Regulation 2017/1369 进入实施&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;2019-2021&lt;/strong&gt;:分阶段对不同产品类别要求强制 EPREL 登记&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;2024 起&lt;/strong&gt;:Amazon EU 在 Seller Central 持续对未登记 ASIN 实施下架 / 限流&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;持续&lt;/strong&gt;:新类目持续被纳入,新能效等级规则不停更新&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2&gt;你现在要做什么&lt;/h2&gt;
+&lt;ol&gt;
+&lt;li&gt;&lt;strong&gt;确认你的产品是否在 EPREL 覆盖范围&lt;/strong&gt;:查看 European Commission 公布的最新受规产品清单。&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;品牌方(OEM 或自有品牌)在 EPREL 注册&lt;/strong&gt;:需提供品牌、技术参数、能效等级、测试报告等信息。&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;生成 EPREL 标签并上传&lt;/strong&gt;:在 EPREL 后台生成 PDF 标签,Amazon 详情页要展示。&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;实体产品/包装贴标&lt;/strong&gt;:在能效等级生效日期前完成新标签印刷 / 贴附。&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;跨年更新&lt;/strong&gt;:能效等级规则更新时,EPREL 数据库需同步更新。&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;非品牌卖家&lt;/strong&gt;:亚马逊平台通常要求品牌方已经登记;非品牌贸易商要确保所代理品牌的 EPREL 编号有效。&lt;/li&gt;
+&lt;/ol&gt;
+&lt;h2&gt;不处理的潜在影响&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;可能&lt;/strong&gt;:Amazon EU 对未登记 ASIN 下架或限流&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;可能&lt;/strong&gt;:欧盟市场监管机构(MSAs)进行抽查,对违规商品处以罚款&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;可能&lt;/strong&gt;:消费者无法比较能效,失去欧盟&amp;quot;能效领跑者&amp;quot;等补贴资格&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;明确:本卡片不构成法律意见&lt;/strong&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2&gt;常见问题&lt;/h2&gt;
+&lt;p&gt;
+&lt;strong&gt;Q1:我只是代销,品牌方已经注册 EPREL,我还要做吗?&lt;/strong&gt;
+&lt;br&gt;
+A:作为销售者,你仍需确保 Amazon 详情页有 EPREL 信息;品牌方注册后,你可以在产品 listing 中关联 EPREL 编号。
+&lt;/p&gt;
+&lt;p&gt;
+&lt;strong&gt;Q2:贴标 + 详情页已经做完,还需要什么?&lt;/strong&gt;
+&lt;br&gt;
+A:EPREL 数据库本身的&amp;quot;登记动作&amp;quot;是核心,详情页只是结果展示;两者都要做。
+&lt;/p&gt;
+&lt;p&gt;
+&lt;strong&gt;Q3:能效等级如何确定?&lt;/strong&gt;
+&lt;br&gt;
+A:由欧盟指定测试实验室按相关标准(Harmonized Standards)测得;不接受厂内自测。
+&lt;/p&gt;
+&lt;h2&gt;官方 / 原始来源&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;EPREL 数据库:https://eprel.ec.europa.eu/&lt;/li&gt;
+&lt;li&gt;欧盟能效标签框架:https://single-market-economy.ec.europa.eu/single-market/ce-marking/energy-labelling_en&lt;/li&gt;
+&lt;li&gt;Amazon EU 公告(持续更新):https://sellercentral.amazon.eu&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2&gt;核对日期&lt;/h2&gt;
+&lt;p&gt;
+本卡片由编辑团队于 &lt;strong&gt;2026-01-05&lt;/strong&gt; 核对主要事实与链接;能效等级重制(scale rescaling)在持续,新类目定期纳入,需持续关注。
+&lt;/p&gt;
+&lt;h2&gt;风险提示与免责声明&lt;/h2&gt;
+&lt;p&gt;
+本站是&lt;strong&gt;信息整理和辅助判断工具&lt;/strong&gt;,不构成法律、税务、认证或专业合规意见。能效法规细则由各 delegated act 决定,具体产品请咨询&lt;strong&gt;欧盟授权代表或认证机构&lt;/strong&gt;。
+&lt;/p&gt;
+&lt;h2&gt;相关规则&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&quot;/radar/eu-gpsr-responsible-person&quot;&gt;欧盟 GPSR 通用产品安全法规 已生效:亚马逊欧洲站卖家必须完成的责任人信息&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2&gt;相关清单&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&quot;/checklists/pre-listing-documents&quot;&gt;产品上架前资料检查清单&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;</content:encoded><category>产品安全</category><category>能效与环保</category><category>标签与说明书</category></item></channel></rss>
