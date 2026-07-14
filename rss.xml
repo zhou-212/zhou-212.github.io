@@ -1,4 +1,192 @@
-<?xml version="1.0" encoding="UTF-8"?><rss version="2.0" xmlns:content="http://purl.org/rss/1.0/modules/content/"><channel><title>欧规雷达 · 规则雷达更新</title><description>亚马逊欧洲站规则变化追踪 — 面向中国中小卖家的中文规则卡片。</description><link>https://weiread.com/</link><language>zh-CN</language><generator>Astro</generator><managingEditor>YOUR_CONTACT_EMAIL@example.com</managingEditor><item><title>欧盟 PPWR 包装与包装废弃物法规 已发布:2026-08-12 全面适用,替代原 94/62/EC 指令</title><link>https://weiread.com/radar/eu-ppwr-2025-40/</link><guid isPermaLink="true">https://weiread.com/radar/eu-ppwr-2025-40/</guid><description>欧盟《包装与包装废弃物法规》(EU) 2025/40 已于 2025-02-11 生效,并将于 2026-08-12 起全面执行(除另有规定),取代原 94/62/EC 包装指令。新规对所有投放欧盟市场的包装施加物质限制、最小化、标签、可回收/再生原料等多维度要求,亚马逊、TEMU、速卖通等已陆续通知平台合规管控。</description><pubDate>Tue, 14 Jul 2026 00:00:00 GMT</pubDate><content:encoded>&lt;p&gt;&lt;em&gt;欧盟《包装与包装废弃物法规》(EU) 2025/40 已于 2025-02-11 生效,并将于 2026-08-12 起全面执行(除另有规定),取代原 94/62/EC 包装指令。新规对所有投放欧盟市场的包装施加物质限制、最小化、标签、可回收/再生原料等多维度要求,亚马逊、TEMU、速卖通等已陆续通知平台合规管控。&lt;/em&gt;&lt;/p&gt;
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0" xmlns:content="http://purl.org/rss/1.0/modules/content/"><channel><title>欧规雷达 · 规则雷达更新</title><description>亚马逊欧洲站规则变化追踪 — 面向中国中小卖家的中文规则卡片。</description><link>https://weiread.com/</link><language>zh-CN</language><generator>Astro</generator><managingEditor>YOUR_CONTACT_EMAIL@example.com</managingEditor><item><title>欧盟电池与废电池法规 已生效:2025-08-18 强制实施,亚马逊对含电池商品启动合规管控</title><link>https://weiread.com/radar/eu-batteries-regulation-2023-1542/</link><guid isPermaLink="true">https://weiread.com/radar/eu-batteries-regulation-2023-1542/</guid><description>欧盟《电池与废电池法规》(EU) 2023/1542 已于 2025-08-18 全面适用,取代原 2006/66/EC 电池指令。新规覆盖碳足迹、再生原料、回收效率、电池护照、便携式 / LMT / SLI / 工业 / EV 五大类电池,亚马逊对在欧盟销售的含电池商品(充电宝、玩具、电子产品)启动合规管控。</description><pubDate>Tue, 14 Jul 2026 00:00:00 GMT</pubDate><content:encoded>&lt;p&gt;&lt;em&gt;欧盟《电池与废电池法规》(EU) 2023/1542 已于 2025-08-18 全面适用,取代原 2006/66/EC 电池指令。新规覆盖碳足迹、再生原料、回收效率、电池护照、便携式 / LMT / SLI / 工业 / EV 五大类电池,亚马逊对在欧盟销售的含电池商品(充电宝、玩具、电子产品)启动合规管控。&lt;/em&gt;&lt;/p&gt;
+&lt;h2&gt;一句话结论&lt;/h2&gt;
+&lt;p&gt;
+如果你在 Amazon EU 卖&lt;strong&gt;含电池商品&lt;/strong&gt;(充电宝、玩具、电子产品、电动工具、LMT 电池车、EV 配件),&lt;strong&gt;2025-08-18 起&lt;/strong&gt; EU Batteries Regulation (EU) 2023/1542 已全面适用 —— 标签、碳足迹、再生原料、回收效率、电池护照等要求逐步落地;亚马逊已对未合规的含电池商品进行下架或限流操作。规则覆盖&lt;strong&gt;5 类电池&lt;/strong&gt;,不是只针对&amp;quot;纯电池&amp;quot;卖家 —— &lt;strong&gt;只要产品内含电池&lt;/strong&gt;,就触发要求。
+&lt;/p&gt;
+&lt;h2&gt;适用范围&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;法规级别&lt;/strong&gt;:欧盟 &lt;strong&gt;Regulation&lt;/strong&gt;(直接适用全境)&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;覆盖范围&lt;/strong&gt;:&lt;strong&gt;所有在欧盟市场投放或投入使用的电池&lt;/strong&gt;(除军用、航天、核能等特殊用途)&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;5 大电池类别&lt;/strong&gt;:&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;
+  - &lt;strong&gt;便携式电池&lt;/strong&gt;(portable):&amp;lt; 5 kg,非工业/非 EV,典型如 AA/AAA、充电宝、手机电池
+&lt;br&gt;
+  - &lt;strong&gt;LMT 电池&lt;/strong&gt;(Light Means of Transport):电动滑板车、电动自行车(&amp;lt; 25 km/h),典型如外卖骑手车
+&lt;br&gt;
+  - &lt;strong&gt;SLI 电池&lt;/strong&gt;(Starting, Lighting, Ignition):汽车启动电池
+&lt;br&gt;
+  - &lt;strong&gt;工业电池&lt;/strong&gt;(Industrial):&amp;gt; 5 kg,非 EV/非 LMT,典型如储能、UPS
+&lt;br&gt;
+  - &lt;strong&gt;EV 电池&lt;/strong&gt;(Electric Vehicle):纯电/插混汽车
+&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;含电池产品卖家&lt;/strong&gt;:即便你卖的不是&amp;quot;纯电池&amp;quot;而是含电池的成品(玩具、电子产品、电动工具、电池驱动设备),你的产品仍受&lt;strong&gt;电池&lt;/strong&gt;部分要求约束&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2&gt;关键时间线&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;2023-07-28&lt;/strong&gt;:EU 2023/1542 在 Official Journal 颁布&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;2023-08-17&lt;/strong&gt;:&lt;strong&gt;生效&lt;/strong&gt;&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;2025-08-18&lt;/strong&gt;:&lt;strong&gt;全面适用&lt;/strong&gt;(除部分条款延后)&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;
+  - 大部分生产者责任、回收效率、标签要求从这天起强制
+&lt;br&gt;
+  - 碳足迹、电池护照、再生原料等&lt;strong&gt;分阶段&lt;/strong&gt;落地
+&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;2026-12-31&lt;/strong&gt;:LMT 电池通用充电器要求开始(USB-C 强制)&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;2027-08-18&lt;/strong&gt;:EV 电池 / LMT 电池 / 工业电池(&amp;gt; 2 kWh)的&lt;strong&gt;电池护照&lt;/strong&gt;(digital battery passport)&lt;strong&gt;强制&lt;/strong&gt;&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;2031-08-18&lt;/strong&gt;:工业电池(≤ 2 kWh)电池护照强制&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;2030-12-31&lt;/strong&gt;:&lt;strong&gt;便携式电池&lt;/strong&gt;再生原料最低占比强制(钴 16%、铅 85%、锂 6%、镍 6%)&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2&gt;标签与标识要求(2025-08-18 起)&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;CE 标志&lt;/strong&gt;(合规声明)&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;电池容量&lt;/strong&gt;(Wh,或 mAh 备用)&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;化学符号&lt;/strong&gt;(Li-ion, Ni-MH 等)&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;生产者名称 + 网址 + 注册号&lt;/strong&gt;(欧盟生产者责任延伸注册)&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;二维码&lt;/strong&gt;(扫码获取完整产品信息,2026-12-31 起强制)&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;单独收集标志&lt;/strong&gt;(垃圾桶 X 标志)&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;LMT 电池&lt;/strong&gt;:额外需标注&amp;quot;请勿丢弃&amp;quot;等提醒&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;含电池产品&lt;/strong&gt;(非纯电池):产品本身标签需声明&amp;quot;内含电池&amp;quot; + 电池可拆卸信息&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2&gt;物质限制&lt;/h2&gt;
+&lt;p&gt;
+| 物质 | 限制 | 适用范围 |
+&lt;br&gt;
+|---|---|---|
+&lt;br&gt;
+| 铅 (Pb) | 电池中 ≤ 0.01% | 便携式电池 |
+&lt;br&gt;
+| 汞 (Hg) | 严格禁止 | 全部 |
+&lt;br&gt;
+| 镉 (Cd) | 严格禁止(部分便携式镍镉电池豁免) | 全部 |
+&lt;br&gt;
+| 锂 (Li) | 标签声明 ≥ 含量 | 全部 |
+&lt;/p&gt;
+&lt;h2&gt;碳足迹 (CFP) - 分品类分阶段&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;2025-08-18 起&lt;/strong&gt;:EV 电池 + LMT 电池 + 工业电池(&amp;gt; 2 kWh) 必须有&lt;strong&gt;碳足迹声明&lt;/strong&gt;(carbon footprint declaration),并附在技术文档&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;2026-12-31 起&lt;/strong&gt;:碳足迹须按 &lt;strong&gt;PEF 方法&lt;/strong&gt;(Product Environmental Footprint) 第三方验证&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;2027-12-31 起&lt;/strong&gt;:设碳足迹&lt;strong&gt;最大阈值&lt;/strong&gt;,超过阈值的电池不能在欧盟销售&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2&gt;数字电池护照 (Digital Battery Passport) - 2027-08-18 起&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;适用&lt;/strong&gt;:EV / LMT / 工业(&amp;gt; 2 kWh)电池&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;形式&lt;/strong&gt;:二维码 / NFC 标签,链接到包含电池成分、碳足迹、再生原料、生命周期数据的&lt;strong&gt;数字护照&lt;/strong&gt;&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;作用&lt;/strong&gt;:让消费者、监管机构、二手市场能验证电池来源、合规、回收路径&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;2028-08-18 起&lt;/strong&gt;:便携式电池(非 LMT / 非工业)的电池护照要求开始(具体阈值看二级立法)&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2&gt;回收效率 + 再生原料 (分阶段)&lt;/h2&gt;
+&lt;p&gt;
+| 指标 | 2025-08-18 | 2027-12-31 | 2030-12-31 |
+&lt;br&gt;
+|---|---|---|---|
+&lt;br&gt;
+| 锂电池回收效率 | 50% | — | 80% |
+&lt;br&gt;
+| 镍镉电池回收效率 | 75% | — | 80% |
+&lt;br&gt;
+| 钴再生原料(消费后) | — | 16% | 26% |
+&lt;br&gt;
+| 铅再生原料(消费后) | — | 85% | — |
+&lt;br&gt;
+| 锂再生原料(消费后) | — | 6% | 12% |
+&lt;br&gt;
+| 镍再生原料(消费后) | — | 6% | 15% |
+&lt;/p&gt;
+&lt;h2&gt;你现在要做什么(按你的角色)&lt;/h2&gt;
+&lt;p&gt;
+&lt;strong&gt;含电池成品卖家(玩具/电子产品/电动工具等):&lt;/strong&gt;
+&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;&lt;strong&gt;查你的产品类目是否含电池&lt;/strong&gt;(即使是纽扣电池的遥控器、AA 电池的玩具)&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;检查电池是否符合 EU 2023/1542&lt;/strong&gt;(可拆卸更换、容量标注、化学符号、CE 等)&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;联系上游供应商&lt;/strong&gt;(电池供应商 / OEM)拿 &lt;strong&gt;DoC(Declaration of Conformity)&lt;/strong&gt; + 物质测试报告&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;更新产品标签&lt;/strong&gt; + Listing,标注内含电池及电池可拆卸性&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;考虑 2027 电池护照&lt;/strong&gt;:在电池供应商层面推动数字护照准备(成品的包装/详情页层面你&lt;strong&gt;可能不直接负责&lt;/strong&gt;,但要和供应商协同)&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;
+&lt;strong&gt;纯电池卖家(在 Amazon EU 卖电池 / 充电宝):&lt;/strong&gt;
+&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;&lt;strong&gt;欧盟生产者责任延伸注册&lt;/strong&gt;(在各销售国完成电池 EPR 注册,与 LUCID / Citeo 等系统对接)&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;碳足迹 / 电池护照准备&lt;/strong&gt;(2027 大限前要完成)&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;CE 标志 + 测试报告 + DoC&lt;/strong&gt;(完整合规技术文档,保存 5-10 年)&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;跨境直邮含电池商品的 IATA / 危险品申报&lt;/strong&gt;(物流层面另算)&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;弃置方案&lt;/strong&gt;(消费者回收渠道,需在各销售国对接回收组织)&lt;/li&gt;
+&lt;/ol&gt;
+&lt;h2&gt;不处理的潜在影响&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;可能&lt;/strong&gt;:Amazon EU 对未合规含电池商品下架或限流(2025 年 8-9 月已观察到)&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;可能&lt;/strong&gt;:欧盟海关对违规电池 / 含电池产品扣留&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;可能&lt;/strong&gt;:消费者退货时无回收渠道,被监管机构处罚&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;明确:本卡片不构成法律意见&lt;/strong&gt;;具体电池类目的碳足迹 / 护照 / 再生原料阈值,需查二级立法及委任法规&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2&gt;常见问题&lt;/h2&gt;
+&lt;p&gt;
+&lt;strong&gt;Q1:我是卖玩具的(里面 3 颗 AA 电池),我也受这个法规约束吗?&lt;/strong&gt;
+&lt;br&gt;
+A:是的。&lt;strong&gt;只要产品内含电池&lt;/strong&gt;,电池部分要求(标签、可拆卸性、化学符号、CE)都适用。玩具/成品卖家要把&amp;quot;电池合规&amp;quot;作为产品合规的一部分,通常要 OEM 提供电池合规证书。
+&lt;/p&gt;
+&lt;p&gt;
+&lt;strong&gt;Q2:电池护照 2027 才强制,我现在要做什么?&lt;/strong&gt;
+&lt;br&gt;
+A:2025-08-18 后&lt;strong&gt;碳足迹声明 + CE + 标签&lt;/strong&gt;已经是必须。电池护照是 2027-08-18 起对 EV/LMT/工业电池强制 —— &lt;strong&gt;如果你的产品是这些电池驱动的,2026 年就要开始让供应商准备&lt;/strong&gt;。&lt;strong&gt;便携式电池&lt;/strong&gt;(充电宝、AA/AAA)的护照要求是 2030-2028 阶段,时间相对宽裕。
+&lt;/p&gt;
+&lt;p&gt;
+&lt;strong&gt;Q3:亚马逊对电池类目的合规要求?&lt;/strong&gt;
+&lt;br&gt;
+A:Amazon EU 在 2025 年 8 月起对&lt;strong&gt;含电池 / 电池驱动的产品&lt;/strong&gt;(尤其 LMT 电动滑板车 / 电动自行车 / 充电宝)启动重点审核。需要&lt;strong&gt;上传:DoC + 物质测试报告 + 碳足迹声明(适用时)+ 电池护照(适用时)&lt;/strong&gt;到 Amazon Seller Central 的合规门户。审核未通过会限流或下架。
+&lt;/p&gt;
+&lt;p&gt;
+&lt;strong&gt;Q4:我的电池从中国采购,没有 DoC,怎么办?&lt;/strong&gt;
+&lt;br&gt;
+A:大多数中国电池供应商&lt;strong&gt;没有主动准备 EU 2023/1542 DoC&lt;/strong&gt;(尤其是 2025-08-18 之前的旧库存)。你需要:
+&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;让供应商&lt;strong&gt;补做测试&lt;/strong&gt;(EN IEC 62133-2 / UN 38.3 等)&lt;/li&gt;
+&lt;li&gt;索取 DoC + 测试报告&lt;/li&gt;
+&lt;li&gt;或换供应商(找已合规的欧盟品牌电池,如 CATL、LG Energy、Panasonic 欧盟分支)&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;
+&lt;strong&gt;Q5:CE-RED / UN 38.3 / EN 62133 这些标准我已经有,还要做什么?&lt;/strong&gt;
+&lt;br&gt;
+A:&lt;strong&gt;不够&lt;/strong&gt;。CE-RED 是无线电设备指令,UN 38.3 是运输测试,EN 62133 是电池安全。&lt;strong&gt;这些是基础&lt;/strong&gt;,但 EU 2023/1542 在此之上还要求:
+&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;碳足迹声明(2025-08-18 后强制,EV/LMT/工业)&lt;/li&gt;
+&lt;li&gt;再生原料占比(2030 后强制)&lt;/li&gt;
+&lt;li&gt;电池护照(2027-08-18 后强制)&lt;/li&gt;
+&lt;li&gt;加 EPR 注册(销售国回收组织)&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2&gt;官方 / 原始来源&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;EUR-Lex Regulation (EU) 2023/1542 全文:&lt;a href=&quot;https://eur-lex.europa.eu/eli/reg/2023/1542/oj&quot;&gt;https://eur-lex.europa.eu/eli/reg/2023/1542/oj&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;European Commission 电池法规概览:&lt;a href=&quot;https://environment.ec.europa.eu/topics/waste-and-recycling/batteries&lt;em&gt;en&quot;&gt;https://environment.ec.europa.eu/topics/waste-and-recycling/batteries&lt;/em&gt;en&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Amazon Seller Central — 电池类目合规门户(进入 Compliance → Product Compliance 查阅)&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2&gt;核对日期&lt;/h2&gt;
+&lt;p&gt;
+本卡片由编辑团队于 &lt;strong&gt;2026-07-14&lt;/strong&gt; 核对主要事实与 EUR-Lex 链接;法规文本以 EUR-Lex 官方发布版为准。&lt;strong&gt;该领域二级立法在持续出台&lt;/strong&gt;(碳足迹方法论、护照数据结构、再生原料目标等),&lt;strong&gt;建议每 60-90 天复核一次&lt;/strong&gt;。
+&lt;/p&gt;
+&lt;h2&gt;风险提示与免责声明&lt;/h2&gt;
+&lt;p&gt;
+本站是&lt;strong&gt;信息整理和辅助判断工具&lt;/strong&gt;,&lt;strong&gt;不构成法律、税务、认证或专业合规意见&lt;/strong&gt;。任何具体执行请咨询&lt;strong&gt;有欧盟电池合规资质的律师、检测机构或注册服务商&lt;/strong&gt;。法规与平台规则在持续更新,本卡片信息可能与最新原文存在差异。
+&lt;/p&gt;
+&lt;h2&gt;相关规则&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&quot;/radar/eu-ppwr-2025-40&quot;&gt;欧盟 PPWR 包装与包装废弃物法规 已发布:2026-08-12 全面适用,替代原 94/62/EC 指令&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;/radar/de-lucid-packaging&quot;&gt;德国包装法 LUCID 与 EPR 注册:亚马逊德国站卖家必填&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;/radar/eu-gpsr-responsible-person&quot;&gt;欧盟 GPSR 通用产品安全法规 已生效:亚马逊欧洲站卖家必须完成的责任人信息&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2&gt;相关清单&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&quot;/checklists/pre-listing-documents&quot;&gt;产品上架前资料检查清单&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;/checklists/new-seller-basics&quot;&gt;新卖家开店基础资料检查清单&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;/checklists/compliance-notice-48h&quot;&gt;收到平台合规通知后的 48 小时应对清单&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;</content:encoded><category>环保合规</category><category>产品安全</category><category>标签与说明书</category><category>平台合规</category></item><item><title>欧盟 PPWR 包装与包装废弃物法规 已发布:2026-08-12 全面适用,替代原 94/62/EC 指令</title><link>https://weiread.com/radar/eu-ppwr-2025-40/</link><guid isPermaLink="true">https://weiread.com/radar/eu-ppwr-2025-40/</guid><description>欧盟《包装与包装废弃物法规》(EU) 2025/40 已于 2025-02-11 生效,并将于 2026-08-12 起全面执行(除另有规定),取代原 94/62/EC 包装指令。新规对所有投放欧盟市场的包装施加物质限制、最小化、标签、可回收/再生原料等多维度要求,亚马逊、TEMU、速卖通等已陆续通知平台合规管控。</description><pubDate>Tue, 14 Jul 2026 00:00:00 GMT</pubDate><content:encoded>&lt;p&gt;&lt;em&gt;欧盟《包装与包装废弃物法规》(EU) 2025/40 已于 2025-02-11 生效,并将于 2026-08-12 起全面执行(除另有规定),取代原 94/62/EC 包装指令。新规对所有投放欧盟市场的包装施加物质限制、最小化、标签、可回收/再生原料等多维度要求,亚马逊、TEMU、速卖通等已陆续通知平台合规管控。&lt;/em&gt;&lt;/p&gt;
 &lt;h2&gt;一句话结论&lt;/h2&gt;
 &lt;p&gt;
 如果你在欧盟销售带包装的商品,&lt;strong&gt;2026-08-12 起&lt;/strong&gt;新规 PPWR (EU) 2025/40 全面适用 —— 包装的物质含量(重金属 + PFAS)、最小化(空置容积 ≤ 50%)、标签(运营主体 + 批次追溯)、可回收等级(A/B/C,2030 起)等多个维度全部进入执法。平台已陆续推送合规通知,&lt;strong&gt;未完成全维度合规的在售商品可能被下架停售&lt;/strong&gt;。
