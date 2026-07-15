@@ -1,0 +1,10 @@
+const f={CNY:{name:"人民币",symbol:"¥",rate:1,flag:"🇨🇳"},USD:{name:"美元",symbol:"$",rate:.14,flag:"🇺🇸"},EUR:{name:"欧元",symbol:"€",rate:.13,flag:"🇪🇺"},GBP:{name:"英镑",symbol:"£",rate:.11,flag:"🇬🇧"},JPY:{name:"日元",symbol:"¥",rate:21.5,flag:"🇯🇵"},KRW:{name:"韩元",symbol:"₩",rate:195,flag:"🇰🇷"},HKD:{name:"港币",symbol:"HK$",rate:1.1,flag:"🇭🇰"},AUD:{name:"澳元",symbol:"A$",rate:.21,flag:"🇦🇺"},CAD:{name:"加元",symbol:"C$",rate:.19,flag:"🇨🇦"},SGD:{name:"新加坡元",symbol:"S$",rate:.19,flag:"🇸🇬"},INR:{name:"印度卢比",symbol:"₹",rate:11.7,flag:"🇮🇳"},TWD:{name:"新台币",symbol:"NT$",rate:4.5,flag:"🇹🇼"},THB:{name:"泰铢",symbol:"฿",rate:5,flag:"🇹🇭"},MYR:{name:"马来西亚林吉特",symbol:"RM",rate:.64,flag:"🇲🇾"}},$="2026-07-15";let l={...f};const r=(e,t=document)=>t.querySelector(e),m=r("[data-cur-amount]"),i=r("[data-cur-from]"),v=r("[data-cur-swap]"),u=r("[data-cur-results]"),b=r("[data-cur-date]"),y=r("[data-cur-source-code]"),D=r("[data-cur-refresh]");function p(e,t){if(!isFinite(e))return"—";let a;return t==="JPY"||t==="KRW"||t==="INR"||t==="VND"?a=0:a=2,e.toLocaleString("zh-CN",{minimumFractionDigits:a,maximumFractionDigits:a})}function c(e){return e===0?"—":e>=100?e.toFixed(2):(e>=1,e.toFixed(4))}function d(e,t,a){const n=l[t]?.rate,s=l[a]?.rate;return!n||!s?NaN:e*n/s}function o(){const e=parseFloat(m.value||"0"),t=i.value;y.textContent=t,u.innerHTML="",Object.entries(l).forEach(([a,n])=>{const s=document.createElement("li");s.className="result-item"+(a===t?" is-source":"");const g=d(e,t,a);s.innerHTML=`
+        <div class="ri-head">
+          <span class="ri-code">${n.flag} ${a}</span>
+          <span class="ri-rate" title="1 ${t} = ${c(n.rate/l[t].rate)} ${a}">
+            1 ${t} = ${c(n.rate/l[t].rate)} ${a}
+          </span>
+        </div>
+        <div class="ri-amount">${n.symbol} ${p(g,a)}</div>
+        <div class="ri-name">${n.name}${a===t?" (源币种)":""}</div>
+      `,u.appendChild(s)})}m.addEventListener("input",o);i.addEventListener("change",o);v.addEventListener("click",()=>{const e=i.value,t=parseFloat(m.value||"0");if(e==="USD")return;const a=d(t,e,"USD");m.value=a.toFixed(2),i.value="USD",o()});D.addEventListener("click",()=>{l={...f},b.textContent=$,o()});o();
