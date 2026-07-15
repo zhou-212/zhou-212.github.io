@@ -102,6 +102,21 @@
     "url": "https://weiread.com/radar/eu-eudr-2023-1115/"
   },
   {
+    "slug": "eu-fcma-2024-1808",
+    "title": "EU 2024/1808 食品接触材料法规:2026-09-02 实施,亚马逊厨具 / 餐具 / 包装卖家必看",
+    "summary": "欧盟《食品接触材料与制品法规》(EU) 2024/1808(Food Contact Materials and Articles Regulation, FCMA)将在 2026-09-02 实施,替代原 1935/2004 框架 + 10/2011 塑料专项。新规涵盖所有食品接触材料(塑料、纸、金属、玻璃、陶瓷、印刷油墨、涂层),强制 DoC,10 万欧罚款。基于 EUR-Lex 法规原文 + 欧盟委员会公告,梳理 5 步行动框架(类目确认 + 测试 + DoC + 标签 + 后台),预算 3000-8000 €。",
+    "contentKind": "近期更新",
+    "status": "即将生效",
+    "riskLevel": "高",
+    "tags": [
+      "产品安全",
+      "食品接触材料",
+      "标签与说明书",
+      "平台合规"
+    ],
+    "url": "https://weiread.com/radar/eu-fcma-2024-1808/"
+  },
+  {
     "slug": "eu-gpsr-responsible-person",
     "title": "欧盟 GPSR 通用产品安全法规 已生效:亚马逊欧洲站卖家必须完成的责任人信息",
     "summary": "2024 年 12 月 13 日起,在 Amazon EU 上架的多数非食品消费类商品必须显示欧盟责任人(Responsible Person)信息。卖家需要确认责任人主体、商品标识与上架资料完整,否则可能下架或限制销售。",
@@ -157,6 +172,34 @@
       "平台合规"
     ],
     "url": "https://weiread.com/radar/eu-ppwr-2025-40/"
+  },
+  {
+    "slug": "eu-ppwr-2026-countdown",
+    "title": "PPWR 包装法 2026-08 倒计时:亚马逊带包装商品 4 个月内必做清单",
+    "summary": "EU 2025/40 包装法 2025-02 生效,2026-08-12 全面执行。本文基于 EUR-Lex 法规原文 + 亚马逊公开公告,梳理 5 步行动框架(物质检测 + 最小化 + 标签 + 注册 + 后台),总预算 3000-5000 €。新卖家 + 现有卖家都适用。",
+    "contentKind": "近期更新",
+    "status": "即将生效",
+    "riskLevel": "高",
+    "tags": [
+      "包装责任",
+      "环保合规",
+      "平台合规"
+    ],
+    "url": "https://weiread.com/radar/eu-ppwr-2026-countdown/"
+  },
+  {
+    "slug": "eu-sales-of-goods-2019-771",
+    "title": "EU 2019/771 售后保障指令:2025-07 起二手商品扩展适用,卖家责任 + 期限 + 应对",
+    "summary": "EU《商品销售指令》(Directive 2019/771, Sales of Goods Directive)在 2022-01-01 各成员国转化后,自 2025-07-30 起扩展适用至**二手 / 翻新商品**。新规统一欧盟全境售后保障规则,法定保质期 1-2 年(各国不同),卖家 1 年内负举证责任,买家有权选择**维修 / 替换 / 减价 / 终止合同**。基于 EUR-Lex 法规原文 + 欧盟委员会公告,梳理卖家责任 + 时间表 + 5 步合规指南。",
+    "contentKind": "基础规则",
+    "status": "生效中",
+    "riskLevel": "中",
+    "tags": [
+      "消费者保护",
+      "售后保障",
+      "平台合规"
+    ],
+    "url": "https://weiread.com/radar/eu-sales-of-goods-2019-771/"
   },
   {
     "slug": "france-epr-triman",
@@ -376,5 +419,19 @@
       "平台合规"
     ],
     "url": "https://weiread.com/radar/guide-vat-registration/"
+  },
+  {
+    "slug": "ukca-2025-transition",
+    "title": "英国 UKCA 标志 2025-01-01 已切换:CE 不再被接受,亚马逊英国站卖家贴标指南",
+    "summary": "英国政府 2024-09 公告:2025-01-01 起 CE 标志在英国市场(GB)不再被接受,UKCA 标志成为大多数商品的强制要求,企业库存可延至 2027-12-31。亚马逊英国站 2024-12 已开始批量通知卖家,贴错标志 → listing 限流 + 海关扣货。本文基于英国政府官方公告 + 亚马逊 Seller Central 公开规则,梳理 UKCA 适用范围 + CE 切换时间表 + 5 步贴标指南。",
+    "contentKind": "近期更新",
+    "status": "生效中",
+    "riskLevel": "高",
+    "tags": [
+      "产品安全",
+      "标签与说明书",
+      "平台合规"
+    ],
+    "url": "https://weiread.com/radar/ukca-2025-transition/"
   }
 ]
