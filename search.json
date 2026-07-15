@@ -186,6 +186,20 @@
     "url": "https://weiread.com/radar/guide-8-terms/"
   },
   {
+    "slug": "guide-amazon-ads-rules",
+    "title": "亚马逊广告合规词:5 类禁用词 + 3 步自查,新手别踩下架坑",
+    "summary": "亚马逊广告有一堆禁用词:绝对化、医疗效果、比较词、主观描述、引诱点击。违反直接拒登,严重的 listing 下架。欧盟额外盯'免费'、价格比较、促销期限。一张 5 类禁用词速查表 + 3 步提交前自查法,看完就懂怎么避雷。",
+    "contentKind": "新手入门",
+    "status": "持续关注",
+    "riskLevel": "高",
+    "tags": [
+      "新手入门",
+      "站内运营",
+      "广告合规"
+    ],
+    "url": "https://weiread.com/radar/guide-amazon-ads-rules/"
+  },
+  {
     "slug": "guide-amazon-ads",
     "title": "亚马逊广告 5 分钟入门:Sponsored Products 三个核心词搞懂就能开跑",
     "summary": "站内广告不是高深活,3 个核心词(CPC / ACOS / ROI)搞懂就能开跑。新手从日预算 5-10 欧、3-5 个精准关键词、建议出价 +50% 起步,跑 7 天看 ACOS 就够了。",
@@ -213,6 +227,20 @@
     "url": "https://weiread.com/radar/guide-amazon-gpsr-email/"
   },
   {
+    "slug": "guide-amazon-warning-email",
+    "title": "收到亚马逊警告信怎么办:5 大类型 + 申诉信模板 + 5 步避坑指南",
+    "summary": "收到亚马逊警告信别慌。第一步:读邮件 + 截图(看具体 ASIN + 违规类型);第二步:72 小时内响应(亚马逊要求);第三步:写申诉信(POA 三段论:根本原因 + 立即措施 + 预防措施)。本文给 5 大警告类型速查 + 1 套完整 POA 中英模板 + 5 个 80% 卖家会踩的坑。",
+    "contentKind": "新手入门",
+    "status": "持续关注",
+    "riskLevel": "高",
+    "tags": [
+      "新手入门",
+      "平台合规",
+      "申诉"
+    ],
+    "url": "https://weiread.com/radar/guide-amazon-warning-email/"
+  },
+  {
     "slug": "guide-ce-marking",
     "title": "CE 标识到底怎么打:新手避坑指南 + China Export 标志 5 万欧罚款警告",
     "summary": "CE 是欧盟商品上的'合格证',几乎所有非食品电子 / 玩具 / 机械 / 医疗器械必须有。这张卡告诉你哪些产品要打 CE、8mm 高度怎么量、容易和 China Export 标志搞混的 5 万欧罚款雷区。",
@@ -228,6 +256,20 @@
     "url": "https://weiread.com/radar/guide-ce-marking/"
   },
   {
+    "slug": "guide-compliance-declaration",
+    "title": "欧盟 DoC 合规声明怎么写:9 项必备内容 + 4 个常见错(模板直接抄)",
+    "summary": "DoC(Declaration of Conformity)是你给欧盟监管机构的「签字画押」,证明产品符合所有适用法规。所有非食品消费品在欧盟销售前都必须有 DoC。这张卡给你 9 项必备字段 + 4 个新手 100% 会踩的坑 + 一份能直接抄的英文模板,30 分钟搞定一份合规声明。",
+    "contentKind": "新手入门",
+    "status": "持续关注",
+    "riskLevel": "中",
+    "tags": [
+      "新手入门",
+      "产品安全",
+      "平台合规"
+    ],
+    "url": "https://weiread.com/radar/guide-compliance-declaration/"
+  },
+  {
     "slug": "guide-fba-vs-fbm",
     "title": "FBA vs 自发货(FBM):新手怎么选,一张表说清",
     "summary": "FBA 是亚马逊帮你发货,FBM 是你自己发货。新手 99% 选 FBA:简单、Prime 标志、24 小时到货;FBM 留给大件、危险品、试款期。一张 5 维对比表 + 3 步决策法,看完就懂怎么选。",
@@ -239,6 +281,33 @@
       "物流"
     ],
     "url": "https://weiread.com/radar/guide-fba-vs-fbm/"
+  },
+  {
+    "slug": "guide-freight-forwarder",
+    "title": "头程物流 / 货代怎么选:4 种方式对比 + 5 步避坑指南",
+    "summary": "头程 = 中国到亚马逊海外仓的物流。4 种方式(快递/空运/海运整柜/海运散货)各适合不同货量;选货代看 3 件事(报价 + 时效 + 是不是双清包税)。本文给一张对比表 + 5 步选货代流程 + 5 个常见坑,新手看完知道怎么走通第一次头程。",
+    "contentKind": "新手入门",
+    "status": "持续关注",
+    "riskLevel": "中",
+    "tags": [
+      "新手入门",
+      "物流"
+    ],
+    "url": "https://weiread.com/radar/guide-freight-forwarder/"
+  },
+  {
+    "slug": "guide-german-packaging-pitfalls",
+    "title": "德国包装避坑:5 大常见错误 + LUCID 注册,1 万欧罚款别白送",
+    "summary": "德国是欧盟包装法最严的国家:LUCID 编号(DE 开头 13 位)、回收系统 logo、多语种包装(德语主导)、亚马逊包装减负、塑料税(2025-2026 起加重)5 大坑,任踩一个 = 1000-50000 欧罚款或下架。一张 5 坑对照表 + 3 步合规操作,看完就懂怎么避雷。",
+    "contentKind": "新手入门",
+    "status": "持续关注",
+    "riskLevel": "高",
+    "tags": [
+      "新手入门",
+      "物流",
+      "包装合规"
+    ],
+    "url": "https://weiread.com/radar/guide-german-packaging-pitfalls/"
   },
   {
     "slug": "guide-pick-first-country",
@@ -268,6 +337,20 @@
     "url": "https://weiread.com/radar/guide-product-pitfalls/"
   },
   {
+    "slug": "guide-review-compliance",
+    "title": "亚马逊评论合规:不刷单、不诱导、不删评,3 条铁律保住店铺",
+    "summary": "亚马逊严禁刷单、买好评、站外索评工具、退款求删评,2024-2025 重拳打击,封号概率最高。允许的工具:Amazon Vine 品牌卖家申请、Request a Review 官方按钮。3 条铁律 + 5 步合规索评法,看完就懂怎么用'正路'攒评价。",
+    "contentKind": "新手入门",
+    "status": "持续关注",
+    "riskLevel": "高",
+    "tags": [
+      "新手入门",
+      "站内运营",
+      "评论合规"
+    ],
+    "url": "https://weiread.com/radar/guide-review-compliance/"
+  },
+  {
     "slug": "guide-seller-90days",
     "title": "亚马逊欧洲站 90 天合规起步路线图:从 0 到基本合规怎么排活",
     "summary": "新开欧洲站的卖家不用慌,90 天够你从 0 走到基本合规。这张卡按周排活,告诉你每一步该干什么、关联到哪张法规卡,像师兄带师弟一样一关一关过。",
@@ -279,5 +362,19 @@
       "合规基础"
     ],
     "url": "https://weiread.com/radar/guide-seller-90days/"
+  },
+  {
+    "slug": "guide-vat-registration",
+    "title": "欧盟 VAT 注册流程:5 国税率 + 2 种注册方式 + 申报避坑指南(2026 版)",
+    "summary": "VAT(Value Added Tax)是欧盟销售税,几乎所有 B2C 卖家都要注册。这张卡给你 5 个主要国家税率对比(德 19% / 法 20% / 意 22% / 西 21% / 荷 21%)+ 2 种注册方式(代办 vs 自己)+ 申报频率 + 4 个 100% 会踩的坑。新手建议找代办,1000-2000 欧元 / 国家,4 周拿号。",
+    "contentKind": "新手入门",
+    "status": "持续关注",
+    "riskLevel": "中",
+    "tags": [
+      "新手入门",
+      "财税合规",
+      "平台合规"
+    ],
+    "url": "https://weiread.com/radar/guide-vat-registration/"
   }
 ]
